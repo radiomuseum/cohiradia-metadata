@@ -1,0 +1,26 @@
+---
+id: 3
+uri: "HS_2021B/MW_31122021c_i16_lo1100_r1250_c0.dat"
+recording-date: "2021-12-31T23:34:38+01:00"
+duration: 1800
+band: "MW"
+frequency-unit: "kHz"
+frequency-low: 475.0
+frequency-high: 1725.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 1100.0
+bandwidth: 1250.0
+antenna: "wire antenna 20m vs earth gnd"
+recording-type: "SDR, 14 bit, Red Pitaya Stemlab125-14, COHIRADIA-RFCorder"
+remark: "Shutdown of MW transmitters in CZE 23:00 UTC: 639kHz RKS Liblice 2 and Ostrava;\
+  \ 954 kHz Dobrochov, Ceske Budejovice, Karlovy Vary; 1071kHz Ostrava; 1332kHz Moravske\
+  \ Budejovice; Program: Cesky rozhlas Dvojka"
+content: "Shutdown of MW transmitters in CZE 23:00 UTC: Liblice 2 and Ostrava"
+location-longitude: "15° 26′ 17″ O"
+location-latitude: "47° 4′ 16″ N"
+location-country: "AT"
+location-city: "Graz"
+upload-user-fk: 3642
+filters: "Chebyshev bandpass 4th order, 500 – 1700 kHz"
+preamp-settings: "3 x AD811, overall gain ca 45dB"

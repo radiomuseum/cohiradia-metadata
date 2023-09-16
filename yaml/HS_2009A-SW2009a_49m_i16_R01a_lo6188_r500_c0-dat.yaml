@@ -1,0 +1,74 @@
+---
+id: 5
+uri: "HS_2009A/SW2009a_49m_i16_R01a_lo6188_r500_c0.dat"
+recording-date: "2009-01-01T09:57:25+01:00"
+duration: 0
+band: "KW 49m"
+frequency-unit: "kHz"
+frequency-low: 5950.0
+frequency-high: 6200.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 6188.0
+bandwidth: 500.0
+antenna: "wire antenna 5m vs earth gnd"
+recording-type: "video recorder Philips VR6711"
+remark: "KW, 49m band, analogue recording on VR   Heruntergemischt in Videorecorder-Band,\
+  \ mangels guten Mischers behelfsmäß ig an stark nichtlinear betriebenem BF115 Transistor\
+  \ als Intermodulationsprodukt 2. Ordnung. LO aus Analog-Oszillator Philips GM2883\
+  \ 100mVpp Sinus original 5289 kHz.  Digital resampled auf LO = 6075+113.2 = 6188.2kHz.\
+  \ Leider Drifts des LO während der Aufnahme um mehrere kHz, daher Qualität und Frequenztreue\
+  \ nicht gut, aber evt. historisch interessant, da noch deutsche und niederländische,\
+  \ inzwischen abgeschaltete Sender. Eine genaue Charakterisierung des Mischers folgt\
+  \ in nächster Zeit"
+content: "KW, 49m band, analogue recording on VR"
+radio-stations:
+- frequency: "6075"
+  country: "D"
+  programme: "Deutsche Welle (source http://www.hfcc.org/data/ 2008B)"
+  tx-site: "Woofferton"
+- frequency: "6115"
+  country: "AUT"
+  programme: "Radio Austria International (source http://www.hfcc.org/data/ 2008B)"
+  tx-site: "Moosbrunn"
+- frequency: "6120"
+  country: "HOL"
+  programme: "Radio Netherlands (source http://www.hfcc.org/data/ 2008B)"
+  tx-site: "Wertachtal"
+- frequency: "6035"
+  country: "HOL"
+  programme: "Radio Netherlands (source http://www.hfcc.org/data/ 2008B)"
+  tx-site: "Issoudun"
+- frequency: "6220"
+  country: "-"
+  programme: "Mystery radio (confirmed: http://mt-shortwave.blogspot.com/2010/10/\
+    \ und http://www.easyshopdiscountzone.com/radio/pirate/archive/archive0905.html)"
+  tx-site: "Pirate"
+- frequency: "6190"
+  country: "D"
+  programme: "Deutschlandfunk (source http://www.hfcc.org/data/ 2008B)"
+  tx-site: "Meyerton"
+- frequency: "6195"
+  country: "CVA"
+  programme: "Radio Vatican (source http://www.hfcc.org/data/ 2008B)"
+  tx-site: "Nakhon Sawan"
+- frequency: "5965"
+  country: "CVA"
+  programme: "Radio Vatican (source http://www.hfcc.org/data/ 2008B)"
+  tx-site: "Santa Maria de Galeria"
+- frequency: "5955"
+  country: "HOL"
+  programme: "Radio Netherlands, somewhat delayed (source http://www.hfcc.org/data/\
+    \ 2008B)"
+  tx-site: "Horby"
+radio-station-announcement: "2:35: Stations-und Zeitansagen; announcements of stations/time:\
+  \ 11 Uhr, Neujahrstag (01.01.2009)"
+location-longitude: "15° 26′ 17″ O"
+location-latitude: "47° 4′ 16″ N"
+location-country: "AT"
+location-city: "Graz"
+upload-user-fk: 3642
+filters: "not documented"
+preamp-settings: "Amplifiers of channel 1 of an oscilloscope, Kenwood CS-5135 40MHz\
+  \ , gain was chosen manually so that the dnamic range of the VR was optimally used\
+  \ (<=700mVpp)."

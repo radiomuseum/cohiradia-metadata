@@ -1,0 +1,53 @@
+---
+id: 23
+uri: "SR_2022B/27Apr2022_2100PDT_MW_i16_lo1125_r1250_c0.dat"
+recording-date: "2022-04-27T04:00:00-07:00"
+duration: 599
+band: "MW"
+frequency-unit: "kHz"
+frequency-low: 500.0
+frequency-high: 1750.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 1125.0
+bandwidth: 1250.0
+antenna: "1m whip antenna with PA0RDT pre-amp followed by a -20dB attenuator"
+recording-type: "RSP1A, SDRPlay"
+remark: "MW California 27-04-2022, evening"
+content: "MW California 27-04-2022, evening"
+radio-stations:
+- frequency: "1430"
+  programme: "KVVN (Vietnamese talk)"
+  tx-site: "Santa Clara"
+- frequency: "1370"
+  programme: "KZSF (Mexican talk)"
+  tx-site: "San Jose"
+- frequency: "1100"
+  programme: "KFAX"
+  tx-site: "San Francisco"
+- frequency: "1170"
+  programme: "KLOK Radio Mirchi"
+  tx-site: "San Jose"
+- frequency: "740"
+  programme: "KCBS"
+  tx-site: "San Francisco"
+- frequency: "680"
+  programme: "KNBR"
+  tx-site: "San Francisco"
+- frequency: "610"
+  programme: "KEAR"
+  tx-site: "San Francisco"
+- frequency: "580"
+  programme: "KMJ"
+  tx-site: "Fresno"
+- frequency: "560"
+  programme: "KSFO"
+  tx-site: "San Francisco"
+radio-station-announcement: "station IDs are broadcast at 04:15 (exact hour)"
+location-longitude: "121° 58′ W"
+location-latitude: "37° 14′ N"
+location-country: "US"
+location-city: "Los Gatos (CA)"
+upload-user-fk: 19367
+filters: "on board of the SDR, LPF 0 - 2 MHz"
+preamp-settings: "on board LNA"

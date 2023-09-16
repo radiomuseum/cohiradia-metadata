@@ -1,0 +1,29 @@
+---
+id: 33
+uri: "HS_2022A/LW_AllouisLuxemburgeff1_i16_lo220_r250_c0.dat"
+recording-date: "2022-06-11T21:09:40+02:00"
+duration: 88
+band: "LW"
+frequency-unit: "kHz"
+frequency-low: 145.0
+frequency-high: 296.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 220.0
+bandwidth: 150.0
+antenna: "active dipole 2x120cm, symmetric preamplifier with OPA655 FET Opamps"
+recording-type: "RSP1A, SDRPlay"
+remark: "Luxemburg-Effekt auf Allouis 162 kHz, hier ist tatsächlich RTL schwach aufmoduliert\n\
+  Gewitter-Crashes durch Gewitter Nähe Belgrad"
+content: "Luxembourg effect with RTL modulated onto 162kHz Allouis, part1"
+radio-stations:
+- frequency: "234"
+  country: "RTL"
+  tx-site: "Beidweiler LUX"
+location-longitude: "15° 26′ 17″ O"
+location-latitude: "47° 4′ 16″ N"
+location-country: "AT"
+location-city: "Graz"
+upload-user-fk: 3642
+filters: "on board of the SDR, LPF 0 - 2 MHz"
+preamp-settings: "on board LNA"

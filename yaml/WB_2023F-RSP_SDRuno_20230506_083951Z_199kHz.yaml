@@ -1,0 +1,55 @@
+---
+id: 52
+uri: "WB_2023F/RSP_SDRuno_20230506_083951Z_199kHz.wav"
+recording-date: "2023-05-06T08:39:51+02:00"
+duration: 5453
+band: "LW"
+frequency-unit: "kHz"
+frequency-low: 149.0
+frequency-high: 249.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 199.0
+bandwidth: 100.0
+antenna: "2x19m Dipol, Einspeisung 13m über Grund, abgespannt gegen Punkte 7m und\
+  \ 9m über Grund, Spann-Richtung N-S, nach S geneigt"
+recording-type: "RSP1a"
+remark: "BBC 4 and DR Langbølge are the only remaining broadcasting programmes with\
+  \ good SNR during daytime, Antena Satelor and Polskie Radio kHz have minima of tof\
+  \ he radiation pattern @RX site"
+content: "Coronation ceremony of Charles III, full transmission on BBC4 on LW, RX\
+  \ Neunkirchen"
+radio-stations:
+- frequency: "153.0"
+  snr: "21"
+  country: "ROU"
+  programme: "SRR Antena Satelor, R. România Actualități"
+  tx-site: "Brașov/Bod Colonie"
+- frequency: "162.0"
+  snr: "60"
+  country: "G"
+  programme: "Time signal"
+  tx-site: "Allouis"
+- frequency: "198.0"
+  snr: "55"
+  country: "G"
+  programme: "BBC Radio 4"
+  tx-site: "Droitwich; Burghead; Westerglen; Dartford Tunnel"
+- frequency: "225.0"
+  snr: "20"
+  country: "POL"
+  programme: "Polskie Radio JedynkaAlso news in Ukrainian"
+  tx-site: "Solec Kujawski/Kabat"
+- frequency: "243.0"
+  snr: "40"
+  country: "DNK, carrier detectable between 9:34 and 10:29"
+  programme: "DR Langbølge"
+  tx-site: "Kalundborg/Radiovej"
+location-longitude: "7° 20' O"
+location-latitude: "50° 52' N"
+location-country: "DE"
+location-city: "Neunkirchen/Seelscheid"
+location-qth: "JO30qu"
+upload-user-fk: 22152
+filters: "none"
+preamp-settings: "none"

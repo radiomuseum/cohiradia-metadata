@@ -1,0 +1,25 @@
+---
+id: 31
+uri: "HS_2021A/LW_31122021c_i16_lo180_r250_c0.dat"
+recording-date: "2021-12-31T23:30:00+01:00"
+duration: 1800
+band: "LW"
+frequency-unit: "kHz"
+frequency-low: 153.0
+frequency-high: 279.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 180.0
+bandwidth: 250.0
+antenna: "wire antenna 20m vs earth gnd"
+recording-type: "SDR, 14 bit, Red Pitaya Stemlab125-14, COHIRADIA-RFCorder"
+remark: "Shutdown of the LW transmitter Topolna in CZE at 24:00 (CZE), 23:00 UTC;\
+  \ BBC at 198kHz poor due to interference at the receiver site"
+content: "LW band with shutdown of the LW transmitter Topolna in CZE at 23:00 UTC"
+location-longitude: "15° 26′ 17″ O"
+location-latitude: "47° 4′ 16″ N"
+location-country: "AT"
+location-city: "Graz"
+upload-user-fk: 3642
+filters: "Chebyshev bandpass 3th order, 135 – 315 kHz"
+preamp-settings: "3 x AD811, overall gain ca 45dB"

@@ -1,0 +1,68 @@
+---
+id: 36
+uri: "HS_2022B/i16_LWLBLuxEffA_lo220_r250_c0.dat"
+recording-date: "2022-07-18T21:14:55+02:00"
+duration: 3579
+band: "LW"
+frequency-unit: "kHz"
+frequency-low: 145.0
+frequency-high: 295.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 220.0
+bandwidth: 150.0
+antenna: "active dipole 2x120cm, symmetric preamplifier with OPA655 FET Opamps"
+recording-type: "RSP1A, SDRPlay"
+remark: "LW, strong Luxembourg effect on 162kHz/198kHz;         Superposition of the\
+  \ transmitters of Tipaza and Dublin @ 252 kHz with a beat effect; with increasing\
+  \ dusk  an extraordinarily strong Luxemburg-effect can be observed: Modulation of\
+  \ Beidweiler on 162kHz Allouis and 198kHz Droitwich"
+content: "LW, strong Luxembourg effect on 162kHz/198kHz"
+radio-stations:
+- frequency: "153"
+  snr: "35"
+  country: "ROU"
+  programme: "Antena Satelor"
+  tx-site: "Brasov"
+- frequency: "162"
+  snr: "57"
+  country: "F"
+  programme: "Zeitzeichen"
+  tx-site: "Allouis"
+- frequency: "171"
+  snr: "28"
+  country: "MRC"
+  programme: "Medi 1"
+  tx-site: "Nador MRC"
+- frequency: "198"
+  s-level: "51"
+  country: "G"
+  programme: "BBC4"
+  tx-site: "Droitwich"
+- frequency: "255"
+  snr: "48"
+  country: "POL"
+  programme: "Jedynka"
+  tx-site: "Solec Kujawski"
+- frequency: "234"
+  snr: "55"
+  country: "LUX"
+  programme: "RTL"
+  tx-site: "Beidweiler"
+- frequency: "252"
+  snr: "29"
+  country: "IRL"
+  programme: "RTE1"
+  tx-site: "Dublin"
+- frequency: "252"
+  snr: "40"
+  country: "ALG"
+  programme: "Chaîne 3"
+  tx-site: "Tipaza"
+location-longitude: "8° 31' O"
+location-latitude: "48° 25' N"
+location-country: "DE"
+location-city: "Lossburg"
+upload-user-fk: 3642
+filters: "on board of the SDR, LPF 0 - 2 MHz"
+preamp-settings: "on board LNA"

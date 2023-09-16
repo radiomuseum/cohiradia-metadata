@@ -1,0 +1,28 @@
+---
+id: 12
+uri: "SR_2022A/Bay_AreaMW_i16_lo1125_r1250_c0.dat"
+recording-date: "2022-04-19T17:59:00-07:00"
+duration: 360
+band: "MW"
+frequency-unit: "kHz"
+frequency-low: 500.0
+frequency-high: 1750.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 1125.0
+bandwidth: 1250.0
+antenna: "ten turn square loop, ca.0.5 m per side, mounted on a tripod at 2 metres\
+  \ above the ground"
+recording-type: "RSP1A, SDRPlay"
+remark: "MW California 19-04-2022, morning; station IDs are broadcast at 18:00UTC, corresp to 60s from start\
+  \ (exact hour)"
+content: "MW California 19-04-2022, morning"
+radio-station-announcement: "station IDs are broadcast at 18:00UTC, corresp to 60s from start\
+  \ (exact hour"
+location-longitude: "121° 58′ W"
+location-latitude: "37° 14′ N"
+location-country: "US"
+location-city: "Los Gatos (CA)"
+upload-user-fk: 19367
+filters: "on board of the SDR, LPF 0 - 2 MHz"
+preamp-settings: "on board LNA"

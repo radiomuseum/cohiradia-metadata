@@ -1,0 +1,40 @@
+---
+id: 44
+uri: "WB_2023E/RSP_RTE_20230414_221236Z_241kHz.wav"
+recording-date: "2023-04-14T22:12:36+01:00"
+duration: 4299
+band: "LW"
+frequency-unit: "kHz"
+frequency-low: 191.0
+frequency-high: 291.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 241.0
+bandwidth: 100.0
+antenna: "R&S HFH2-Z2 mit eingebautem Verstärker (frequenzgangbereinigt)"
+remark: ""
+recording-type: "RSP1a"
+content: "Last transmission of RTE on 252kHz: Last hour. RX Neunkirchen-Seelscheid"
+radio-stations:
+- frequency: "198.0"
+  snr: "46"
+  country: "G"
+  programme: "BBC Radio 4"
+  tx-site: "Droitwich/Mast A-B; Burghead; Westerglen; Dartford Tunnel"
+- frequency: "225.0"
+  snr: "36"
+  country: "POL"
+  programme: "Polskie Radio Jedynka"
+  tx-site: "Solec Kujawski/Kabat"
+- frequency: "252.0"
+  snr: "35"
+  country: "IRL"
+  programme: "RTÉ Radio 1"
+  tx-site: "Clarkestown/Summerhill"
+location-longitude: "7° 20' O"
+location-latitude: "50° 52' N"
+location-country: "DE"
+location-city: "Neunkirchen-Seelscheid"
+upload-user-fk: 22152
+filters: "300 kHz LP"
+preamp-settings: "Use of 20dB preamp with the 2N5109"

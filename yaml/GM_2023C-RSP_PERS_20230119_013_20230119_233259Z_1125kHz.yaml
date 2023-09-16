@@ -1,0 +1,24 @@
+---
+id: 32
+uri: "GM_2023C/RSP_PERS_20230119_013_20230119_233259Z_1125kHz.wav"
+recording-date: "2023-01-19T23:32:59+01:00"
+duration: 2058
+band: "MW"
+frequency-unit: "kHz"
+frequency-low: 500.0
+frequency-high: 1750.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 1125.0
+bandwidth: 1250.0
+antenna: "Wellbrook ALA1530LN"
+recording-type: "?"
+remark: "Last transmissions of Absolute Radio on MW, RX Luzern"
+content: "Last transmissions of Absolute Radio on MW, RX Luzern"
+location-longitude: "08° 18′ 49″ O"
+location-latitude: "47° 3′ 38″ N"
+location-country: "CH"
+location-city: "Luzern"
+upload-user-fk: 0
+filters: "intrinsic filters of the SDR"
+preamp-settings: "no preamp"

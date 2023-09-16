@@ -1,0 +1,24 @@
+---
+id: 16
+uri: "HS_2022G/MW_27022022c_i16_lo1100_r1250_c0.dat"
+recording-date: "2022-02-27T00:00:00+01:00"
+duration: 95
+band: "MW"
+frequency-unit: "kHz"
+frequency-low: 475.0
+frequency-high: 1725.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 1100.0
+bandwidth: 1250.0
+antenna: "wire antenna 20m vs earth gnd"
+recording-type: "Stemlab125-14"
+remark: "MW 27-02-2022"
+content: "MW 27-02-2022 incl. reactivated Ukrainian Station on 549kHz after Russian invasion"
+location-longitude: "15° 26′ 17″ O"
+location-latitude: "47° 4′ 16″ N"
+location-country: "AT"
+location-city: "Graz"
+upload-user-fk: 3642
+filters: "Chebyshev bandpass 4th order, 500 – 1700 kHz"
+preamp-settings: "3 x AD811, overall gain ca 45dB"

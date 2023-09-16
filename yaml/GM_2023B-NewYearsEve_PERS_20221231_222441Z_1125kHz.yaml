@@ -1,0 +1,25 @@
+---
+id: 38
+uri: "GM_2023B/NewYearsEve_PERS_20221231_222441Z_1125kHz.wav"
+recording-date: "2022-12-31T22:24:41+01:00"
+duration: 0
+band: "MW"
+frequency-unit: "kHz"
+frequency-low: 500.0
+frequency-high: 1750.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 1125.0
+bandwidth: 1250.0
+antenna: "Wellbrook ALA1530LN"
+recording-type: "?"
+remark: "Closure of Slovak transmitters on MW, RX Luzern"
+content: "New Year's Memories 22/23: Last transmission from SVK on 702 and 1098 kHz,\
+  \ RX Luzern"
+location-longitude: "08° 18′ 49″ O"
+location-latitude: "47° 3′ 38″ N"
+location-country: "CH"
+location-city: "Luzern"
+upload-user-fk: 33528
+filters: "intrinsic filters of the SDR"
+preamp-settings: "no preamp"
