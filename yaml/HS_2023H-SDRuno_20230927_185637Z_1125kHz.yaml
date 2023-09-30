@@ -1,8 +1,8 @@
 ---
-id: 
+id: 68
 uri: "HS_2023H/SDRuno_20230927_185637Z_1125kHz.wav"
 recording-date: "2023-09-27T18:56:37+02:00"
-duration: 4290.0
+duration: 4290
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -11,9 +11,13 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 1125.0
 bandwidth: 1250.0
-antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2 windings, 1 m diameter) ca 12m above ground, QRM-canceller and(WIMO) and auxiliary loop (custom-built), orientations optimized for best SNR of 639 kHz (Country Radio)"
+antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2 windings, 1 m\
+  \ diameter) ca 12m above ground, QRM-canceller and(WIMO) and auxiliary loop (custom-built),\
+  \ orientations optimized for best SNR of 639 kHz (Country Radio)"
 recording-type: "RSPdx (SDRPlay)"
-remark: "Country Radio on 639kHz; unidentif. interference on 1521kHz with typical Chinese music ? is this a temporary DX reception of R. Cina Int. from Hutubi (500kW acc mwlist.org)?; Larissa (GRC) on 1512 identified (rarely received in Graz)"
+remark: "Country Radio on 639kHz; unidentif. interference on 1521kHz with typical\
+  \ Chinese music ? is this a temporary DX reception of R. Cina Int. from Hutubi (500kW\
+  \ acc mwlist.org)?; Larissa (GRC) on 1512 identified (rarely received in Graz)"
 content: "MW band with the first evening of Country Radio on 639kHz (CZE, Liblice)"
 radio-stations:
 - frequency: "531.0"
@@ -90,7 +94,8 @@ radio-stations:
   snr: "32"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss; Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
+  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss;\
+    \ Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
 - frequency: "711.0"
   snr: "26"
   country: "ROU"
@@ -115,7 +120,7 @@ radio-stations:
   snr: "9"
   country: "HOL"
   programme: "MCB Radio"
-  tx-site: " 	Alphen aan den Rijn"
+  tx-site: " \tAlphen aan den Rijn"
 - frequency: "756.0"
   snr: "28"
   country: "ROU"
@@ -174,8 +179,12 @@ radio-stations:
 - frequency: "909.0"
   snr: "41"
   country: "G, interf. ROU"
-  programme: "BBC Radio 5 Live, somewhat dephased transmitters, interference with Radio Romania Actualitati"
-  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's Mount; Exeter/Pearce's Hill; Dartford Tunnel; interf Cluj-Napoca/Jucu, Timisoara, Constanta "
+  programme: "BBC Radio 5 Live, somewhat dephased transmitters, interference with\
+    \ Radio Romania Actualitati"
+  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox\
+    \ mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's\
+    \ Mount; Exeter/Pearce's Hill; Dartford Tunnel; interf Cluj-Napoca/Jucu, Timisoara,\
+    \ Constanta "
 - frequency: "936.0"
   snr: "21"
   country: "E"
@@ -230,7 +239,8 @@ radio-stations:
   snr: "40"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick; Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees; "
+  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick;\
+    \ Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees; "
 - frequency: "1062.0"
   snr: "38"
   country: "CZE"
@@ -240,7 +250,8 @@ radio-stations:
   snr: "46"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey; Dartford Tunnel; "
+  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey;\
+    \ Dartford Tunnel; "
 - frequency: "1107.0"
   snr: "20"
   country: "E"
@@ -290,7 +301,8 @@ radio-stations:
   snr: "26"
   country: "G ?"
   programme: "BFBS Gurkha Radio"
-  tx-site: "Annesley Woodhouse/Acacia Ce;  Blandford Forum; Brecon;  Hullavington; Innsworth/Imjin Barracks; Warminster"
+  tx-site: "Annesley Woodhouse/Acacia Ce;  Blandford Forum; Brecon;  Hullavington;\
+    \ Innsworth/Imjin Barracks; Warminster"
 - frequency: "1296.0"
   snr: "25"
   country: "E"
@@ -329,7 +341,7 @@ radio-stations:
 - frequency: "1404.0"
   snr: "26"
   country: "ROU"
-  programme: " 	SRR Radio Cluj/Kolozsvári Rádió/Radio Sighet "
+  programme: " \tSRR Radio Cluj/Kolozsvári Rádió/Radio Sighet "
   tx-site: "Sighetu Marmației/Vadu Izei"
 - frequency: "1413.0"
   snr: "38"
@@ -350,7 +362,8 @@ radio-stations:
   snr: "23"
   country: "G"
   programme: "BBC Radio 4"
-  tx-site: "Aberdeen/Redmoss; Peterborough/Gunthorpe; Leicester (Highfields); North Bristol College Campus; "
+  tx-site: "Aberdeen/Redmoss; Peterborough/Gunthorpe; Leicester (Highfields); North\
+    \ Bristol College Campus; "
 - frequency: "1458.0"
   snr: "39"
   country: "G"
@@ -448,9 +461,8 @@ radio-stations:
   tx-site: "unidentified"
 location-longitude: "15° 26′ 17″ E"
 location-latitude: "47° 4′ 16″ N"
-location-qth: ""
 location-country: "AT"
 location-city: "Graz"
-upload-user-fk: "3642"
+upload-user-fk: 3642
 filters: "only intrinsic filters of the SDR"
 preamp-settings: "no external preamplifier"
