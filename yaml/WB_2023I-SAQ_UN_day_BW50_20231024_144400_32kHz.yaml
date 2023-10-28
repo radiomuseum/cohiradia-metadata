@@ -1,5 +1,5 @@
 ---
-id:
+id: 70
 uri: "WB_2023I/SAQ_UN_day_BW50_20231024_144400_32kHz.wav"
 recording-date: "2023-10-24T14:44:00+02:00"
 duration: 1591
@@ -10,11 +10,12 @@ frequency-high: 57.0
 frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 32.0
-bandwidth: 50
+bandwidth: 50.0
 antenna: "2x19m Dipol, Einspeisung 13m über Grund, abgespannt gegen Punkte 7m und\
   \ 9m über Grund, Spann-Richtung N-S, nach S geneigt"
 recording-type: "RSP1a"
-remark: "Antenna tuned by additional Inductance, small bandwidth, some interferences on 35,8kHz and 44kHz by digital equipment"
+remark: "Antenna tuned by additional Inductance, small bandwidth, some interferences\
+  \ on 35,8kHz and 44kHz by digital equipment"
 content: "SAQ Grimeton on UN-Day 24.10.2023, rec. Neunkirchen"
 radio-stations:
 - frequency: "16.4"
