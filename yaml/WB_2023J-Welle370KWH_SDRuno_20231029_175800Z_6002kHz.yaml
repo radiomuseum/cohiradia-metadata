@@ -1,5 +1,5 @@
 ---
-id:
+id: 72
 uri: "Welle370KWH_SDRuno_20231029_175800Z_6002kHz.wav"
 recording-date: "2023-10-29T18:58:00+01:00"
 duration: 3757
@@ -10,7 +10,7 @@ frequency-high: 6252.091
 frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 6002.091
-bandwidth: 500
+bandwidth: 500.0
 antenna: "10m Vertikal, 2 Radials Ost-West"
 recording-type: "RSP1a"
 remark: "20m vom Haus entfernt"
