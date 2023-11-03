@@ -1,8 +1,8 @@
 ---
-id: 
+id: 74
 uri: "GM_2023F/RSP_PERS_mw241_000_20230924_205120Z_1125kHz.wav"
 recording-date: "2023-09-24T20:51:20+02:00"
-duration: 433.0
+duration: 433
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -13,7 +13,8 @@ center-frequency: 1125.0
 bandwidth: 1250.0
 antenna: "custom-built active dipole antenna, type Graz (see COHIRADIA report 2023)"
 recording-type: "Perseus SDR"
-remark: "many Spanish stations with very good SNR, low QRM; dataset resampled from 2MHz wide original"
+remark: "many Spanish stations with very good SNR, low QRM; dataset resampled from\
+  \ 2MHz wide original"
 content: "MW Recording in Perfugas (Sardegna)"
 radio-stations:
 - frequency: "531.0"
@@ -54,7 +55,8 @@ radio-stations:
 - frequency: "603.0"
   snr: "26"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Andalucía; RNE Radio 5 Todo Noticias Castilla y León"
+  programme: "RNE Radio 5 Todo Noticias Andalucía; RNE Radio 5 Todo Noticias Castilla\
+    \ y León"
   tx-site: "Sevilla/La Corchuela; Palencia/Monte Viejo"
 - frequency: "612.0"
   snr: "28"
@@ -75,7 +77,8 @@ radio-stations:
   snr: "35"
   country: "E"
   programme: "RNE  Andalucía; RNE Castilla-La Mancha"
-  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren ; Zaragoza/Cuarte Torrero ; Almería/Roquetas de Mar ; Albacete/El Palo "
+  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren ; Zaragoza/Cuarte Torrero ;\
+    \ Almería/Roquetas de Mar ; Albacete/El Palo "
 - frequency: "648.0"
   snr: "32"
   country: "G"
@@ -100,11 +103,13 @@ radio-stations:
   snr: "30"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss; Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
+  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss;\
+    \ Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
 - frequency: "702.0"
   snr: "30"
   country: "EGY"
-  programme: "NMA Janub Sa'id MisrRegional program, South Upper Egypt; NMA Al-Shabab wal Riyadah/NMA Al-WaRadio The New Valley, Youth & Sport"
+  programme: "NMA Janub Sa'id MisrRegional program, South Upper Egypt; NMA Al-Shabab\
+    \ wal Riyadah/NMA Al-WaRadio The New Valley, Youth & Sport"
   tx-site: "Aswan; El-Kharga"
 - frequency: "711.0"
   snr: "23"
@@ -120,7 +125,8 @@ radio-stations:
   snr: "4"
   country: "E"
   programme: "RNE  Andalucía; RNE  Castilla-La Mancha"
-  tx-site: "Oviedo/El Naranco ; Málaga/Santa Rosalía ; Logroño/La Grajera ; Valladolid/San Cristóbal ; Alicante/Bacarot ; Cuenca/Martinete"
+  tx-site: "Oviedo/El Naranco ; Málaga/Santa Rosalía ; Logroño/La Grajera ; Valladolid/San\
+    \ Cristóbal ; Alicante/Bacarot ; Cuenca/Martinete"
 - frequency: "738.0"
   snr: "38"
   country: "E"
@@ -144,8 +150,10 @@ radio-stations:
 - frequency: "774.0"
   snr: "29"
   country: "E"
-  programme: "RNE País VascoRNE  Castilla y León;RNE  Andalucía;RNE  Andalucía;RNE  Castilla y León"
-  tx-site: "València/El Palmar; Cáceres/Aldea del Cano ; San Sebastián/Biribilondo-Zubieta; Ourense/Pereiro ; Soria/Valonsadero ; Granada/Cúllar Vega; La Línea ; León/Villaquilambre"
+  programme: "RNE País VascoRNE  Castilla y León;RNE  Andalucía;RNE  Andalucía;RNE\
+    \  Castilla y León"
+  tx-site: "València/El Palmar; Cáceres/Aldea del Cano ; San Sebastián/Biribilondo-Zubieta;\
+    \ Ourense/Pereiro ; Soria/Valonsadero ; Granada/Cúllar Vega; La Línea ; León/Villaquilambre"
 - frequency: "783.0"
   snr: "33"
   country: "E"
@@ -160,7 +168,8 @@ radio-stations:
   snr: "6"
   country: "E"
   programme: "RNE Castilla-La Mancha; RNE  Castilla y León; RNE  Castilla y León"
-  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
+  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castelló\
+    n/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
 - frequency: "810.0"
   snr: "27"
   country: "E"
@@ -175,7 +184,9 @@ radio-stations:
   snr: "44"
   country: "E"
   programme: "RNE  Andalucía; RNE  Castilla y León;"
-  tx-site: "Murcia/Torre de Cotillas ; Santander/Rostrío; Pontevedra/Finca Marín; Tarragona/Reus ; Huelva/Aljaraque ; Pamplona/Berrioplano ; Ponferrada/Fuentesnuevas ; Salamanca/Feria de Ganado ; Teruel/La Muela"
+  tx-site: "Murcia/Torre de Cotillas ; Santander/Rostrío; Pontevedra/Finca Marín;\
+    \ Tarragona/Reus ; Huelva/Aljaraque ; Pamplona/Berrioplano ; Ponferrada/Fuentesnuevas\
+    \ ; Salamanca/Feria de Ganado ; Teruel/La Muela"
 - frequency: "864.0"
   snr: "29"
   country: "E"
@@ -185,7 +196,9 @@ radio-stations:
   snr: "39"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's Mount; Exeter/Pearce's Hill; Dartford Tunnel"
+  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox\
+    \ mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's\
+    \ Mount; Exeter/Pearce's Hill; Dartford Tunnel"
 - frequency: "927.0"
   snr: "9"
   country: "I"
@@ -194,7 +207,8 @@ radio-stations:
 - frequency: "936.0"
   snr: "33"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Aragón; RNE Radio 5 Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias Comunidad Valenciana"
+  programme: "RNE Radio 5 Todo Noticias Aragón; RNE Radio 5 Todo Noticias Castilla\
+    \ y León; RNE Radio 5 Todo Noticias Comunidad Valenciana"
   tx-site: "Zaragoza/Cuarte Torrero ; Valladolid/San Cristóbal ; Alicante/Bacarot"
 - frequency: "945.0"
   snr: "1"
@@ -239,7 +253,8 @@ radio-stations:
 - frequency: "1017.0"
   snr: "23"
   country: "E"
-  programme: "RNE Radio 5Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias Andalucía; "
+  programme: "RNE Radio 5Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias\
+    \ Andalucía; "
   tx-site: "Burgos/San Bartolomé; Granada/Cúllar Vega"
 - frequency: "1026.0"
   snr: "30"
@@ -264,23 +279,30 @@ radio-stations:
 - frequency: "1080.0"
   snr: "31"
   country: "E"
-  programme: "SER Andalucía; SER Aragón; Onda Cero, Onda Cero Castilla-La Mancha; SER Galicia"
+  programme: "SER Andalucía; SER Aragón; Onda Cero, Onda Cero Castilla-La Mancha;\
+    \ SER Galicia"
   tx-site: "Granada; Huesca; Toledo/Mirador del Greco; La Coruña/Elviña"
 - frequency: "1089.0"
   snr: "42"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey; Dartford Tunnel"
+  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey;\
+    \ Dartford Tunnel"
 - frequency: "1098.0"
   snr: "33"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Andalucía; RNE Radio 5 Todo Noticias Galicia; RNE Radio 5 Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias Andalucía"
-  tx-site: "Almería/Roquetas de Mar ; Lugo/As Arierias ; Ávila/Camino Tornadizos ; Huelva/Aljaraque"
+  programme: "RNE Radio 5 Todo Noticias Andalucía; RNE Radio 5 Todo Noticias Galicia;\
+    \ RNE Radio 5 Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias Andalucí\
+    a"
+  tx-site: "Almería/Roquetas de Mar ; Lugo/As Arierias ; Ávila/Camino Tornadizos ;\
+    \ Huelva/Aljaraque"
 - frequency: "1107.0"
   snr: "2"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias La Rioja; RNE Radio 5 Todo Noticias Extremadura; RNE Radio 5 Todo Noticias Cantabria,RNE Radio 5 Todo Noticias Aragón"
-  tx-site: "Logroño/La Grajera ; Cáceres/Aldea del Cano ; Santander/Rostrío; Teruel/La Muela"
+  programme: "RNE Radio 5 Todo Noticias La Rioja; RNE Radio 5 Todo Noticias Extremadura;\
+    \ RNE Radio 5 Todo Noticias Cantabria,RNE Radio 5 Todo Noticias Aragón"
+  tx-site: "Logroño/La Grajera ; Cáceres/Aldea del Cano ; Santander/Rostrío; Teruel/La\
+    \ Muela"
 - frequency: "1116.0"
   snr: "26"
   country: "E"
@@ -289,8 +311,11 @@ radio-stations:
 - frequency: "1125.0"
   snr: "36"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias Extremadura; RNE Radio 5 Todo Noticias Comunidad Valenciana;  RNE Radio 5 Todo Noticias Castilla-La Mancha; RNE Radio 5 Todo Noticias País Vasco"
-  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San Bernardo; Vitoria/Berrosteguieta"
+  programme: "RNE Radio 5 Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias\
+    \ Extremadura; RNE Radio 5 Todo Noticias Comunidad Valenciana;  RNE Radio 5 Todo\
+    \ Noticias Castilla-La Mancha; RNE Radio 5 Todo Noticias País Vasco"
+  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San\
+    \ Bernardo; Vitoria/Berrosteguieta"
 - frequency: "1134.0"
   snr: "20"
   country: "E"
@@ -340,7 +365,8 @@ radio-stations:
   snr: "2"
   country: "E"
   programme: "COPE Andalucía; COPE Cataluña; COPE Baleares; COPE Galicia"
-  tx-site: "Huelva/Colada de Cantarranas; Almería; Lleida=Lérida; Palma/Na Burguesa; Lugo"
+  tx-site: "Huelva/Colada de Cantarranas; Almería; Lleida=Lérida; Palma/Na Burguesa;\
+    \ Lugo"
 - frequency: "1260.0"
   snr: "27"
   country: "E"
@@ -364,12 +390,15 @@ radio-stations:
 - frequency: "1305.0"
   snr: "39"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Galicia; RNE Radio 5 Todo Noticias País Vasco;RNE Radio 5 Todo Noticias Castilla-La Mancha;RNE Radio 5 Todo Noticias Castilla y León; "
+  programme: "RNE Radio 5 Todo Noticias Galicia; RNE Radio 5 Todo Noticias País Vasco;RNE\
+    \ Radio 5 Todo Noticias Castilla-La Mancha;RNE Radio 5 Todo Noticias Castilla\
+    \ y León; "
   tx-site: "Ourense/Pereiro ; Bilbao/Santo Domingo; Ciudad Real/Almagro ; León/Villaquilambre"
 - frequency: "1314.0"
   snr: "36"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Cataluña;RNE Radio 5 Todo Noticias Castilla-La Mancha;RNE Radio 5 Todo Noticias Castilla y León"
+  programme: "RNE Radio 5 Todo Noticias Cataluña;RNE Radio 5 Todo Noticias Castilla-La\
+    \ Mancha;RNE Radio 5 Todo Noticias Castilla y León"
   tx-site: "Tarragona/Reus ; Cuenca/Martinete ; Salamanca/Feria de Ganado"
 - frequency: "1323.0"
   snr: "26"
@@ -379,7 +408,8 @@ radio-stations:
 - frequency: "1341.0"
   snr: "28"
   country: "E"
-  programme: "Onda Cero Castilla-La Mancha;SER Castilla y León; Onda Cero Andalucía"
+  programme: "Onda Cero Castilla-La Mancha;SER Castilla y León; Onda Cero Andalucí\
+    a"
   tx-site: "Ciudad Real/Ctra. Piedrabuena; León Vilecha; Almería"
 - frequency: "1368.0"
   snr: "19"
@@ -399,7 +429,8 @@ radio-stations:
 - frequency: "1413.0"
   snr: "1"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Cataluña; RNE Radio 5 Todo Noticias Andalucía"
+  programme: "RNE Radio 5 Todo Noticias Cataluña; RNE Radio 5 Todo Noticias Andalucí\
+    a"
   tx-site: "Girona/Campllong; Jaén/Las Lagunillas"
 - frequency: "1422.0"
   snr: "38"
@@ -469,7 +500,8 @@ radio-stations:
 - frequency: "1593.0"
   snr: "21"
   country: "ROU"
-  programme: "SRR Radio România Actualități; SRR Radio Târgu Mureș/Marosvásárhel; SRR Radio Cluj/Kolozsvári Rádió; SRR Radio Cluj/Kolozsvári Rádió"
+  programme: "SRR Radio România Actualități; SRR Radio Târgu Mureș/Marosvásárhel;\
+    \ SRR Radio Cluj/Kolozsvári Rádió; SRR Radio Cluj/Kolozsvári Rádió"
   tx-site: "Ion Corvin; Miercurea Ciuc; Oradea/Rontău; Sibiu"
 - frequency: "1602.0"
   snr: "34"
@@ -478,9 +510,9 @@ radio-stations:
   tx-site: "Cartagena; Linares; Onteniente; Segovia"
 location-longitude: "8.883333°"
 location-latitude: "40.833333°"
-location-qth: "JN40KT"
 location-country: "Italia, Regione Autonoma della Sardegna"
 location-city: "Perfugas, SS"
-upload-user-fk: "33528"
+location-qth: "JN40KT"
+upload-user-fk: 33528
 filters: "none"
 preamp-settings: "none"
