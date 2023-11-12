@@ -14,7 +14,7 @@ bandwidth: 250.0
 antenna: "Active Dipol Graz type"
 recording-type: "Perseus SDR"
 remark: "Strong Luxembourg Effect on 162KHz from TWR 1467AM"
-content: "LW Recording Perfugas - 240923"
+content: "LW Recording in Perfugas, Sardegna"
 radio-stations:
 - frequency: "81.0"
   snr: "1"
