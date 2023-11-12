@@ -1,8 +1,8 @@
 ---
-id: 
+id: 76
 uri: "GM_2023G/RSP_PERS_mw241_000_20230924_205120Z_180kHz.wav"
 recording-date: "2023-09-24T20:51:20+02:00"
-duration: 1311.0
+duration: 1311
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 55.0
@@ -63,9 +63,9 @@ radio-stations:
   tx-site: "Tipaza"
 location-longitude: "8.883333°"
 location-latitude: "40.833333°"
-location-qth: "JN40KT"
 location-country: "Italia, Regione Autonoma della Sardegna"
 location-city: "Perfugas, I"
-upload-user-fk: "33528"
+location-qth: "JN40KT"
+upload-user-fk: 33528
 filters: "none"
 preamp-settings: "none"
