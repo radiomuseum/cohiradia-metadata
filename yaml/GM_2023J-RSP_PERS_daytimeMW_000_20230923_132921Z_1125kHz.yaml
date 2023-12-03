@@ -1,8 +1,8 @@
 ---
-id: 
+id: 86
 uri: "GM_2023J/RSP_PERS_daytimeMW_000_20230923_132921Z_1125kHz.wav"
 recording-date: "2023-09-23T13:29:21+02:00"
-duration: 2593.0
+duration: 2593
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -30,7 +30,8 @@ radio-stations:
   snr: "31"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte Pastoriza"
+  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte\
+    \ Pastoriza"
 - frequency: "576.0"
   snr: "46"
   country: "E"
@@ -75,7 +76,8 @@ radio-stations:
   snr: "16"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
+  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castelló\
+    n/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
 - frequency: "855.0"
   snr: "33"
   country: "E"
@@ -123,9 +125,9 @@ radio-stations:
   tx-site: "Tarragona/Reus ; Cuenca/Martinete ; Salamanca/Feria de Ganado "
 location-longitude: "8.8166"
 location-latitude: "40.85"
-location-qth: "JN40KT"
 location-country: "I"
 location-city: "Sedini"
-upload-user-fk: "33528"
+location-qth: "JN40KT"
+upload-user-fk: 33528
 filters: "no"
 preamp-settings: "no"
