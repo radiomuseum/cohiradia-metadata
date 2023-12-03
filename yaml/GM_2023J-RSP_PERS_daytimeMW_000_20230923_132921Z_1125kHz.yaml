@@ -125,8 +125,8 @@ radio-stations:
   tx-site: "Tarragona/Reus ; Cuenca/Martinete ; Salamanca/Feria de Ganado "
 location-longitude: "8.8166"
 location-latitude: "40.85"
-location-country: "I"
-location-city: "Sedini"
+location-country: "IT"
+location-city: "Sedini, I"
 location-qth: "JN40KT"
 upload-user-fk: 33528
 filters: "no"
