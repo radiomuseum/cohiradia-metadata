@@ -308,9 +308,9 @@ radio-stations:
   programme: "SER"
   tx-site: "Cartagena; Linares; Onteniente=Ontinyent; Segovia/CL-601a"
 location-longitude: " 8.8561° E"
-location-latitude: "40.9761° N "
-location-country: "IT"
-location-city: "Badesi"
+location-latitude: "40.9761° N"
+location-country: "ITA"
+location-city: "Badesi, I"
 location-qth: "JN40KX  "
 upload-user-fk: 33528
 filters: "no"
