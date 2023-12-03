@@ -1,6 +1,6 @@
 ---
 id: 92
-uri: "GM_2023N/RSP_PERS_mw25_019_20230924_233256Z_180kHz.wav"
+uri: "GM_2023O/RSP_PERS_mw25_019_20230924_233256Z_180kHz.wav"
 recording-date: "2023-09-24T23:32:56+02:00"
 duration: 2160
 band: "LW"
@@ -13,7 +13,7 @@ center-frequency: 180.0
 bandwidth: 250.0
 antenna: "custom-built active dipole antenna, type Graz (see COHIRADIA report 2023)"
 recording-type: "Perseus SDR"
-content: "LW Perfugas, at night"
+content: "LW Perfugas, past midnight"
 radio-stations:
 - frequency: "63.85"
   snr: "44"
