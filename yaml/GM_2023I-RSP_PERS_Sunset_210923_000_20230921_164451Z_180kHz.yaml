@@ -1,8 +1,8 @@
 ---
-id: 
+id: 80
 uri: "GM_2023I/RSP_PERS_Sunset_210923_000_20230921_164451Z_180kHz.wav"
 recording-date: "2023-09-21T16:44:51+02:00"
-duration: 1900.0
+duration: 1900
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 55.0
@@ -13,7 +13,8 @@ center-frequency: 180.0
 bandwidth: 250.0
 antenna: "custom-built active dipole antenna, type Graz (see COHIRADIA report 2023)"
 recording-type: "Perseus SDR"
-remark: "Recording at the beach of Badesi during sunrise. Very little QRM. The decrease of signal levels due to increasing ionospheric absorption can be observed nicely"
+remark: "Recording at the beach of Badesi during sunrise. Very little QRM. The decrease\
+  \ of signal levels due to increasing ionospheric absorption can be observed nicely"
 content: "LW Sunrise at the beach of Badesi al Mare"
 radio-stations:
 - frequency: "145.0"
@@ -43,9 +44,9 @@ radio-stations:
   tx-site: "Tipaza"
 location-longitude: " 8.8561° E"
 location-latitude: "40.9761° N "
-location-qth: "JN40KX  "
 location-country: "IT"
 location-city: "Badesi, I"
-upload-user-fk: "33528"
+location-qth: "JN40KX  "
+upload-user-fk: 33528
 filters: "no"
 preamp-settings: "no"
