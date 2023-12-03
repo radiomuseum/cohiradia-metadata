@@ -1,8 +1,8 @@
 ---
-id: 
+id: 78
 uri: "GM_2023H/RSP_PERS_Sunset_210923_000_20230921_164451Z_1125kHz.wav"
 recording-date: "2023-09-21T16:44:51+02:00"
-duration: 2160.0
+duration: 2160
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 50.0
@@ -13,7 +13,8 @@ center-frequency: 1125.0
 bandwidth: 1250.0
 antenna: "custom-built active dipole antenna, type Graz (see COHIRADIA report 2023)"
 recording-type: "Perseus SDR"
-remark: "Recording at the beach of Badesi during sunset. Very little QRM. The increase of signal levels due to decreasing ionospheric absorption can be observed nicely"
+remark: "Recording at the beach of Badesi during sunset. Very little QRM. The increase\
+  \ of signal levels due to decreasing ionospheric absorption can be observed nicely"
 content: "MW Sunset at the beach of Badesi al Mare"
 radio-stations:
 - frequency: "531.0"
@@ -30,7 +31,8 @@ radio-stations:
   snr: "38"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte Pastoriza"
+  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte\
+    \ Pastoriza"
 - frequency: "576.0"
   snr: "47"
   country: "E"
@@ -60,7 +62,8 @@ radio-stations:
   snr: "5"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren (RNE); Zaragoza/Cuarte Torrero (RNE); Almería/Roquetas de Mar (RNE); Albacete/El Palo (RNE); unknown"
+  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren (RNE); Zaragoza/Cuarte Torrero\
+    \ (RNE); Almería/Roquetas de Mar (RNE); Albacete/El Palo (RNE); unknown"
 - frequency: "648.0"
   snr: "14"
   country: "SVN"
@@ -105,7 +108,8 @@ radio-stations:
   snr: "4"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "València/El Palmar; Cáceres/Aldea del Cano ; San Sebastián/Biribilondo-Zubieta; Ourense/Pereiro ; Soria/Valonsadero ; Granada/Cúllar Vega; La Línea ; León/Villaquilambre "
+  tx-site: "València/El Palmar; Cáceres/Aldea del Cano ; San Sebastián/Biribilondo-Zubieta;\
+    \ Ourense/Pereiro ; Soria/Valonsadero ; Granada/Cúllar Vega; La Línea ; León/Villaquilambre "
 - frequency: "783.0"
   snr: "39"
   country: "E"
@@ -115,12 +119,15 @@ radio-stations:
   snr: "30"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
+  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castelló\
+    n/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
 - frequency: "855.0"
   snr: "26"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "Murcia/Torre de Cotillas ; Santander/Rostrío; Pontevedra/Finca Marín; Tarragona/Reus ; Huelva/Aljaraque ; Pamplona/Berrioplano ; Ponferrada/Fuentesnuevas ; Salamanca/Feria de Ganado ; Teruel/La Muela "
+  tx-site: "Murcia/Torre de Cotillas ; Santander/Rostrío; Pontevedra/Finca Marín;\
+    \ Tarragona/Reus ; Huelva/Aljaraque ; Pamplona/Berrioplano ; Ponferrada/Fuentesnuevas\
+    \ ; Salamanca/Feria de Ganado ; Teruel/La Muela "
 - frequency: "873.0"
   snr: "26"
   country: "MDA"
@@ -180,22 +187,26 @@ radio-stations:
   snr: "11"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey; Dartford Tunnel"
+  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey;\
+    \ Dartford Tunnel"
 - frequency: "1098.0"
   snr: "1"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Almería/Roquetas de Mar ; Lugo/As Arierias ; Ávila/Camino Tornadizos ; Huelva/Aljaraque "
+  tx-site: "Almería/Roquetas de Mar ; Lugo/As Arierias ; Ávila/Camino Tornadizos ;\
+    \ Huelva/Aljaraque "
 - frequency: "1107.0"
   snr: "2"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Logroño/La Grajera ; Cáceres/Aldea del Cano ; Santander/Rostrío; Teruel/La Muela "
+  tx-site: "Logroño/La Grajera ; Cáceres/Aldea del Cano ; Santander/Rostrío; Teruel/La\
+    \ Muela "
 - frequency: "1125.0"
   snr: "10"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San Bernardo; Vitoria/Berrosteguieta"
+  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San\
+    \ Bernardo; Vitoria/Berrosteguieta"
 - frequency: "1152.0"
   snr: "36"
   country: "ROU"
@@ -298,9 +309,9 @@ radio-stations:
   tx-site: "Cartagena; Linares; Onteniente=Ontinyent; Segovia/CL-601a"
 location-longitude: " 8.8561° E"
 location-latitude: "40.9761° N "
-location-qth: "JN40KX  "
 location-country: "Italia"
 location-city: "Badesi"
-upload-user-fk: "33528"
+location-qth: "JN40KX  "
+upload-user-fk: 33528
 filters: "no"
 preamp-settings: "no"
