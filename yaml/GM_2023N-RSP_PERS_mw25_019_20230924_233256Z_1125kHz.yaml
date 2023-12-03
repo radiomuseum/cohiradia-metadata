@@ -1,8 +1,8 @@
 ---
-id: 
+id: 90
 uri: "GM_2023N/RSP_PERS_mw25_019_20230924_233256Z_1125kHz.wav"
 recording-date: "2023-09-24T23:32:56+02:00"
-duration: 2160.0
+duration: 2160
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -30,7 +30,8 @@ radio-stations:
   snr: "4"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte Pastoriza"
+  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte\
+    \ Pastoriza"
 - frequency: "567.0"
   snr: "20"
   country: "E"
@@ -70,7 +71,8 @@ radio-stations:
   snr: "23"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren ; Zaragoza/Cuarte Torrero ; Almería/Roquetas de Mar ; Albacete/El Palo ; unknown"
+  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren ; Zaragoza/Cuarte Torrero ;\
+    \ Almería/Roquetas de Mar ; Albacete/El Palo ; unknown"
 - frequency: "648.0"
   snr: "3"
   country: "SVN"
@@ -95,7 +97,8 @@ radio-stations:
   snr: "21"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss; Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
+  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss;\
+    \ Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
 - frequency: "702.0"
   snr: "9"
   country: "EGY"
@@ -110,7 +113,8 @@ radio-stations:
   snr: "4"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "Oviedo/El Naranco ; Málaga/Santa Rosalía ; Logroño/La Grajera ; Valladolid/San Cristóbal ; Alicante/Bacarot ; Cuenca/Martinete "
+  tx-site: "Oviedo/El Naranco ; Málaga/Santa Rosalía ; Logroño/La Grajera ; Valladolid/San\
+    \ Cristóbal ; Alicante/Bacarot ; Cuenca/Martinete "
 - frequency: "738.0"
   snr: "35"
   country: "E"
@@ -125,7 +129,8 @@ radio-stations:
   snr: "20"
   country: "E"
   programme: "RNE Radio National"
-  tx-site: "València/El Palmar; Cáceres/Aldea del Cano ; San Sebastián/Biribilondo-Zubieta; Ourense/Pereiro ; Soria/Valonsadero ; Granada/Cúllar Vega; La Línea ; León/Villaquilambre "
+  tx-site: "València/El Palmar; Cáceres/Aldea del Cano ; San Sebastián/Biribilondo-Zubieta;\
+    \ Ourense/Pereiro ; Soria/Valonsadero ; Granada/Cúllar Vega; La Línea ; León/Villaquilambre "
 - frequency: "783.0"
   snr: "13"
   country: "E"
@@ -135,7 +140,8 @@ radio-stations:
   snr: "28"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
+  tx-site: "Ciudad Real/Almagro ; Lugo/As Arierias ; Burgos/San Bartolomé; Castelló\
+    n/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela"
 - frequency: "810.0"
   snr: "3"
   country: "E"
@@ -150,7 +156,9 @@ radio-stations:
   snr: "33"
   country: "E"
   programme: "RNE Radio Nacional"
-  tx-site: "Murcia/Torre de Cotillas ; Santander/Rostrío; Pontevedra/Finca Marín; Tarragona/Reus ; Huelva/Aljaraque ; Pamplona/Berrioplano ; Ponferrada/Fuentesnuevas ; Salamanca/Feria de Ganado ; Teruel/La Muela "
+  tx-site: "Murcia/Torre de Cotillas ; Santander/Rostrío; Pontevedra/Finca Marín;\
+    \ Tarragona/Reus ; Huelva/Aljaraque ; Pamplona/Berrioplano ; Ponferrada/Fuentesnuevas\
+    \ ; Salamanca/Feria de Ganado ; Teruel/La Muela "
 - frequency: "873.0"
   snr: "1"
   country: "E"
@@ -220,27 +228,32 @@ radio-stations:
   snr: "31"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey; Dartford Tunnel"
+  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey;\
+    \ Dartford Tunnel"
 - frequency: "1098.0"
   snr: "3"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Almería/Roquetas de Mar ; Lugo/As Arierias ; Ávila/Camino Tornadizos ; Huelva/Aljaraque "
+  tx-site: "Almería/Roquetas de Mar ; Lugo/As Arierias ; Ávila/Camino Tornadizos ;\
+    \ Huelva/Aljaraque "
 - frequency: "1107.0"
   snr: "3"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Logroño/La Grajera ; Cáceres/Aldea del Cano ; Santander/Rostrío; Teruel/La Muela "
+  tx-site: "Logroño/La Grajera ; Cáceres/Aldea del Cano ; Santander/Rostrío; Teruel/La\
+    \ Muela "
 - frequency: "1125.0"
   snr: "5"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San Bernardo; Vitoria/Berrosteguieta"
+  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San\
+    \ Bernardo; Vitoria/Berrosteguieta"
 - frequency: "1152.0"
   snr: "36"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Málaga/Santa Rosalía ; Albacete/El Palo ; Cartagena/RNE; Lleida=Lérida/Alcoletge ; Zamora/Ctra. Aldehuela"
+  tx-site: "Málaga/Santa Rosalía ; Albacete/El Palo ; Cartagena/RNE; Lleida=Lérida/Alcoletge\
+    \ ; Zamora/Ctra. Aldehuela"
 - frequency: "1170.0"
   snr: "15"
   country: "SVN"
@@ -265,7 +278,8 @@ radio-stations:
   snr: "12"
   country: "E"
   programme: "COPE"
-  tx-site: "Huelva/Colada de Cantarranas; Almería; Lleida=Lérida; Palma/Na Burguesa; Lugo; unknown"
+  tx-site: "Huelva/Colada de Cantarranas; Almería; Lleida=Lérida; Palma/Na Burguesa;\
+    \ Lugo; unknown"
 - frequency: "1260.0"
   snr: "17"
   country: "E"
@@ -363,9 +377,9 @@ radio-stations:
   tx-site: "Cartagena; Linares; Onteniente=Ontinyent; Segovia/CL-601a"
 location-longitude: "8.883333°"
 location-latitude: "40.833333°"
-location-qth: "JN40KT"
 location-country: "IT"
 location-city: "Perfugas, I"
-upload-user-fk: "33528"
+location-qth: "JN40KT"
+upload-user-fk: 33528
 filters: "no"
 preamp-settings: "no"
