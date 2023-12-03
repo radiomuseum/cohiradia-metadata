@@ -1,8 +1,8 @@
 ---
-id: 
+id: 88
 uri: "GM_2023K/RSP_PERS_daytimeMW_000_20230923_132921Z_180kHz.wav"
 recording-date: "2023-09-23T13:29:21+02:00"
-duration: 2593.0
+duration: 2593
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 55.0
@@ -38,9 +38,9 @@ radio-stations:
   tx-site: "Tipaza"
 location-longitude: "8.8166"
 location-latitude: "40.85"
-location-qth: "JN40KT"
 location-country: "IT"
 location-city: "Sedini, I"
-upload-user-fk: "33528"
+location-qth: "JN40KT"
+upload-user-fk: 33528
 filters: "no"
 preamp-settings: "no"
