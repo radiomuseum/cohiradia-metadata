@@ -1,0 +1,46 @@
+---
+id: 
+uri: "GM_2023K/RSP_PERS_daytimeMW_000_20230923_132921Z_180kHz.wav"
+recording-date: "2023-09-23T13:29:21+02:00"
+duration: 2593.0
+band: "LW"
+frequency-unit: "kHz"
+frequency-low: 55.0
+frequency-high: 305.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 180.0
+bandwidth: 250.0
+antenna: "custom-built active dipole antenna, type Graz (see COHIRADIA report 2023)"
+recording-type: "Perseus SDR"
+remark: "recordings during daytime, very low QRM, good signals from Spain, Tunesia"
+content: "LW, Sedini during daytime"
+radio-stations:
+- frequency: "162.0"
+  snr: "39"
+  country: "F"
+  programme: "TDF Time"
+  tx-site: "Allouis"
+- frequency: "171.0"
+  snr: "38"
+  country: "MRC"
+  programme: "Radio Medi 1"
+  tx-site: "Nador"
+- frequency: "225.0"
+  snr: "13"
+  country: "POL"
+  programme: "Polskie Radio Jedynka"
+  tx-site: "Solec Kujawski/Kabat"
+- frequency: "252.0"
+  snr: "46"
+  country: "ALG"
+  programme: "Chaîne 3Chaîne 3 irregular"
+  tx-site: "Tipaza"
+location-longitude: "8.8166"
+location-latitude: "40.85"
+location-qth: "JN40KT"
+location-country: "IT"
+location-city: "Sedini, I"
+upload-user-fk: "33528"
+filters: "no"
+preamp-settings: "no"
