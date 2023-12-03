@@ -1,8 +1,8 @@
 ---
-id: 
+id: 84
 uri: "GM_2023M/RSP_PERS_MW210923_006_20230921_212705Z_180kHz.wav"
 recording-date: "2023-09-21T21:27:05+02:00"
-duration: 3024.0
+duration: 3024
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 55.0
@@ -16,12 +16,7 @@ recording-type: "Perseus SDR"
 remark: "contains midnight section"
 content: "LW Perfugas, at night"
 radio-stations:
-- frequency: "139.0"
-  snr: "34"
-  country: "D"
-  programme: "DCF39ASCII 340Hz shift; DCF39ASCII 340Hz s"
-  tx-site: "Burg/Brehm; Burg/Brehm"
-  frequency: "153.0"
+- frequency: "153.0"
   snr: "35"
   country: "ROU"
   programme: "SRR Antena Satelorr. România Actualități 2200-0400, Harris DX-200 tx"
@@ -37,10 +32,6 @@ radio-stations:
   programme: "Radio Medi 1"
   tx-site: "Nador"
 - frequency: "189.0"
-  snr: "32"
-  country: "ISL"
-  programme: "RÚV Rás 1/RÚV Rás 2Rikisútvarpid"
-  tx-site: "Gufuskálar (Hellissandur)"
   snr: "38"
   country: "G"
   programme: "BBC Radio 4"
@@ -57,9 +48,9 @@ radio-stations:
   tx-site: "Tipaza"
 location-longitude: "8.883333°"
 location-latitude: "40.833333°"
-location-qth: "JN40KT"
 location-country: "I"
 location-city: "Perfugas, I"
-upload-user-fk: "33528"
+location-qth: "JN40KT"
+upload-user-fk: 33528
 filters: "no"
 preamp-settings: "no"
