@@ -3,7 +3,7 @@ id:
 uri: "HS_2023I/resampled_1_20231224_075740_135kHz.wav"
 recording-date: "2023-12-24T07:57:40+01:00"
 duration: 2691
-band: "VLF/LW"
+band: "VLF,LW"
 frequency-unit: "kHz"
 frequency-low: 10.0
 frequency-high: 260.0
@@ -13,10 +13,9 @@ center-frequency: 135.0
 bandwidth: 250.0
 antenna: "Wellbrook ALA1530 (flex version) with custom-built loop for VLF (7 windings, 1 m square support fame) ca 12m above ground"
 recording-type: "RSPdx, SDRPlay"
-remark: "VLF/LW: Widebandscan 250 kHz containing Grimeton SAQ on Christmas Eve 2023, \
-  \, Alexanderson Alternator, message 24-12-2023, 7:00 UTC; additionally Kalundborg morning\
-  \transmission with gymnastics; unidentified, probably local\
-  \ perturbations on 164 174 368/369kHz"
+remark: "VLF,LW: Widebandscan 250 kHz containing Grimeton SAQ on Christmas Eve 2023, \
+  \, Alexanderson Alternator, message 24-12-2023, 7:00 UTC; additionally Kalundborg morning, \
+  \transmission with gymnastics; unidentified, probably local perturbations on 164 174 368/369kHz"
 content: "VLF and LW 10 -260kHz: Grimeton SAQ Christmas transmission 23 and Kalundborg Morning gymnastics on Christmas Eve 2023"
 radio-stations:
 - frequency: "16,4"
