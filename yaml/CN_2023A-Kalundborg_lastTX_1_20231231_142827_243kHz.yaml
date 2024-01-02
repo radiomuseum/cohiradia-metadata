@@ -1,8 +1,8 @@
 ---
-id: 
+id: 98
 uri: "CN_2023A/Kalundborg_lastTX_1_20231231_142827_243kHz.wav"
 recording-date: "2023-12-31T13:28:27+01:00"
-duration: 1530.0
+duration: 1530
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 118.0
@@ -13,7 +13,10 @@ center-frequency: 243.0
 bandwidth: 250.0
 antenna: "Wellbrook ALA1530"
 recording-type: "PERSEUS"
-remark: "Recording kindly provided by Claus Juul Nielsen; Kalundborg transmitter with excellent SNR, SRR(153) and BBC (198) fair SNR, Maroque (171kHz) and Algeria(252khz) very poor SNR; IMPORTANT: time stamps are in CET rather than UTC; Luxemburg effect on SRR 153 kHz (Solt 540kHz)"
+remark: "Recording kindly provided by Claus Juul Nielsen; Kalundborg transmitter with\
+  \ excellent SNR, SRR(153) and BBC (198) fair SNR, Maroque (171kHz) and Algeria(252khz)\
+  \ very poor SNR; IMPORTANT: time stamps are in CET rather than UTC; Luxemburg effect\
+  \ on SRR 153 kHz (Solt 540kHz)"
 content: "LW: Kalundborg 243kHz last transmission, QTH:  Haderslev, C. Nielsen"
 radio-stations:
 - frequency: "129.1"
@@ -166,11 +169,9 @@ radio-stations:
   country: "D"
   programme: "NDB KIL"
   tx-site: "Kiel / Holtenau"
-location-longitude: ""
-location-latitude: ""
-location-qth: "JO45RF"
 location-country: "DNK"
 location-city: "Haderslev"
-upload-user-fk: ""
+location-qth: "JO45RF"
+upload-user-fk: 0
 filters: "none"
 preamp-settings: "internal"
