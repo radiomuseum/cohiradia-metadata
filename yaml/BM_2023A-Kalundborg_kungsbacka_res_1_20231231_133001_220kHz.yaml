@@ -16,7 +16,7 @@ recording-type: "SDRplay Rx"
 remark: "Recording kindly provided by Bengt Madeberg; Kalundborg transmitter (243kHz)\
   \ with excellent SNR,  BBC4 (198kHz) and Polskie Radio (225kHz) good SNR, SRR(153kHz)\
   \ and Algeria(252kHz) partially poor SNR"
-content: "LW: Kalundborg 243kHz last transmission, QTH: Kungsbacka, Bengt Madeberg"
+content: "LW: Kalundborg 243kHz last transmission, QTH: Kungsbacka, B. Madeberg"
 radio-stations:
 - frequency: "153.0"
   snr: "39"
