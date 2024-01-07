@@ -15,8 +15,7 @@ antenna: "Wellbrook ALA1530"
 recording-type: "SDRplay RSP1a "
 remark: "Neujahrskonzert - Wiener Philharmoniker 2024 by Christian Thielemann on RNE\
   \ Nacional"
-content: "MW New Year's day, QTH: Perfugas(Sardinia). Special: New year's concert of the Vienna Philharmonic Orchestra on RNE; 
- 2024 - Perfugas, I"
+content: "MW New Year's day, QTH: Perfugas(Sardinia). Special: New year's concert 2024 of the Vienna Philharmonic Orchestra on RNE"
 radio-stations:
 - frequency: "540.0"
   snr: "38"
