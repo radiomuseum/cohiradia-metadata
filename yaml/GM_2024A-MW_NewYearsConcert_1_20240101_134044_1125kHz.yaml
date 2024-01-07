@@ -1,8 +1,8 @@
 ---
-id: 
+id: 102
 uri: "GM_2024A/MW_NewYearsConcert_1_20240101_134044_1125kHz.wav"
 recording-date: "2024-01-01T13:40:39+01:00"
-duration: 1803.0
+duration: 1803
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -13,8 +13,8 @@ center-frequency: 1125.0
 bandwidth: 1250.0
 antenna: "Wellbrook ALA1530"
 recording-type: "SDRplay RSP1a "
-remark: "Neujahrskonzert - Wiener Philharmoniker 2024 by Christian Thielemann
-on RNE Nacional"
+remark: "Neujahrskonzert - Wiener Philharmoniker 2024 by Christian Thielemann on RNE\
+  \ Nacional"
 content: "Neujahrskonzert der Wiener Philharmoniker 2024 - Perfugas, I"
 radio-stations:
 - frequency: "540.0"
@@ -116,12 +116,14 @@ radio-stations:
   snr: "4"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San Bernardo; Vitoria/Berrosteguieta"
+  tx-site: "Soria/Valonsadero ; Badajoz/Granja Escuela ; Castellón/Almazora; Toledo/San\
+    \ Bernardo; Vitoria/Berrosteguieta"
 - frequency: "1152.0"
   snr: "20"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Málaga/Santa Rosalía ; Albacete/El Palo ; Cartagena/RNE; Lleida=Lérida/Alcoletge ; Zamora/Ctra. Aldehuela"
+  tx-site: "Málaga/Santa Rosalía ; Albacete/El Palo ; Cartagena/RNE; Lleida=Lérida/Alcoletge\
+    \ ; Zamora/Ctra. Aldehuela"
 - frequency: "1179.0"
   snr: "16"
   country: "E"
@@ -142,12 +144,7 @@ radio-stations:
   country: "E"
   programme: "RNE Radio 5"
   tx-site: "Tarragona/Reus"
-- frequency: "1413.0"
-  snr: "27"
-  country: "E"
-  programme: "RNE Radio 5"
-  tx-site: "Girona/Campllong; Jaén/Las Lagunillas"
-  frequency: "1422.0"
+- frequency: "1422.0"
   snr: "16"
   country: "ALG"
   programme: "Radio Culture"
@@ -159,9 +156,9 @@ radio-stations:
   tx-site: "Castellón/Ramell"
 location-longitude: "8.88354000"
 location-latitude: "40.83231000"
-location-qth: "JN40LT"
 location-country: "IT"
 location-city: "Perfugas, Sassari Province"
-upload-user-fk: "33528"
+location-qth: "JN40LT"
+upload-user-fk: 33528
 filters: "-"
 preamp-settings: "-"
