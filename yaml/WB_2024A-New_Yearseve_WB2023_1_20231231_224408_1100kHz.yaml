@@ -1,19 +1,22 @@
 ---
+id: 104
 uri: "WB_2024A/New_Yearseve_WB2023_1_20231231_224408_1100kHz.wav"
 recording-date: "2023-12-31T22:44:08+01:00"
 duration: 5405
 band: "MW"
 frequency-unit: "kHz"
-frequency-low: 475
-frequency-high: 1725
-frequency-correction: 0
+frequency-low: 475.0
+frequency-high: 1725.0
+frequency-correction: 0.0
 encoding: "ci16"
-center-frequency: 1100
-bandwidth: 1250
+center-frequency: 1100.0
+bandwidth: 1250.0
 antenna: "2x19m Dipol, Einspeisung 13m ueber Grund, abgespannt gegen Punkte 7m und\
   \ 9m ueber Grund, Spann-Richtung N-S, nach S geneigt"
 recording-type: "Stemlab125-14"
-remark: "midnight CET (e.g. RNE 738) and midnight UTC (e.g. BBC, 693) in the same recording; The chimes of BigBen at its 100th time of live bongs on radio (see. https://www.bbc.com/news/entertainment-arts-67632538)"
+remark: "midnight CET (e.g. RNE 738) and midnight UTC (e.g. BBC, 693) in the same\
+  \ recording; The chimes of BigBen at its 100th time of live bongs on radio (see.\
+  \ https://www.bbc.com/news/entertainment-arts-67632538)"
 content: "New Years eve 31-12-2023, MW, rec. Neunkirchen-Seelscheid"
 radio-stations:
 - frequency: "531"
@@ -135,7 +138,7 @@ radio-stations:
   country: "E"
   programme: "RNE"
   tx-site: "Madrid"
-  tx-power: 100kW"
+  tx-power: "100kW\""
 - snr: "22"
   country: "ARS"
   programme: "SBA"
@@ -360,10 +363,6 @@ radio-stations:
   tx-site: "Al Arish"
   tx-power: "1500kW"
 - frequency: "963"
-  snr: "40"
-  country: "TUN"
-  programme: "R.Tunis Int."
-  tx-site: "Jedeida"
   snr: "30"
   country: "G"
   programme: "Sunrise Radio"
@@ -419,10 +418,6 @@ radio-stations:
   tx-site: "Bandar-e Abbas"
   tx-power: "200kW"
 - frequency: "1035"
-  snr: "30"
-  country: "G"
-  programme: "Lyca Gold Radio"
-  tx-site: "London 3kW"
   snr: "31"
   country: "EST"
   programme: "Radio Eli"
@@ -471,10 +466,6 @@ radio-stations:
   tx-site: "Gleichwelle"
   tx-power: "10kW"
 - frequency: "1107"
-  snr: "35"
-  country: "G"
-  programme: "Talk Sport"
-  tx-site: "Gleichwelle"
   snr: "35"
   country: "E"
   programme: "RNE Radio 5"
@@ -683,10 +674,6 @@ radio-stations:
   tx-site: "Hafar al-Batin, QRM IRN offset+"
 - frequency: "1476"
   snr: "20"
-  country: "G"
-  programme: "Wellbeing Radio"
-  tx-site: "Coalville"
-  snr: "20"
   country: "AUT"
   programme: "Museums Radio"
   tx-site: "Bad Ischl"
@@ -710,11 +697,6 @@ radio-stations:
   programme: "IRIB"
   tx-site: "Ardabil"
 - frequency: "1521"
-  snr: "20"
-  country: "ARS"
-  programme: "Radio Riyadh"
-  tx-site: "Duba"
-  tx-power: "former 1000kW"
   snr: "25"
   country: "E"
   programme: "SER"
