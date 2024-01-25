@@ -15,6 +15,7 @@ antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2 windings, 1
 recording-type: "RSPdx, SDRPlay"
 remark: "LW: 2 hours of the LW band including the turn of the year in 3 different time zones: Romania UTC+2, Poland UTC+1, England UTC; includes the chimes of Big Ben at its 100ths anniversary of live tranmissions"
 content: "New Years eve 31-12-2023, LW, rec. Graz, Midnight sequence"
+radio-stations:
 - frequency: "60"
   snr: "30"
   country: "G,J ?"
