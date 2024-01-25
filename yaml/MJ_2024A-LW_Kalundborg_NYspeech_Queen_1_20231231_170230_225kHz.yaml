@@ -78,6 +78,7 @@ radio-stations:
   country: "DNK"
   programme: "DR Langbølge"
   tx-site: "Kalundborg/Radiovej"
+  remark: "Margarethe II's last New Year's address as Queen of Denmark at the end of the special programme before the final shutdown of th LW transmitter Kalundborg"
 - frequency: "252.0"
   snr: "38"
   country: "ALG"
