@@ -1,8 +1,8 @@
 ---
-id: 
+id: 106
 uri: "MJ_2024A/LW_Kalundborg_NYspeech_Queen_1_20231231_170230_225kHz.wav"
 recording-date: "2023-12-31T17:02:30+02:00"
-duration: 240.0
+duration: 240
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 100.0
@@ -12,9 +12,15 @@ encoding: "ci16"
 center-frequency: 225.0
 bandwidth: 250.0
 antenna: "385 meter Beverage, direction 344˚ "
-recording-type: "Receiver: Icom IC-R8600, Software: HDSDR, original Bandwith 240 kHz, resampled to 250kHz for STEMLAB125-14"
-remark: "Margarethe II's last New Year's address as Queen of Denmark at the end of the special programme before the final shutdown of th LW transmitter Kalundborg @243 kHz, recording kindly provided Jorma Mantyla; extremely strong Luxemburg effect, Polskie Radio (225kHz) on the carrier of 135.6kHz; some Luxemburg effect on 162 kHz (Polskie radio ?) and also on 129.1 kHz"
-content: "LW Band with New Year's speech of Queen Margrethe II at the last transmission of Kalundborg, 243kHz, rec. by Jorma Mantyla in Finland"
+recording-type: "Receiver: Icom IC-R8600, Software: HDSDR, original Bandwith 240 kHz,\
+  \ resampled to 250kHz for STEMLAB125-14"
+remark: "Margarethe II's last New Year's address as Queen of Denmark at the end of\
+  \ the special programme before the final shutdown of th LW transmitter Kalundborg\
+  \ @243 kHz, recording kindly provided Jorma Mantyla; extremely strong Luxemburg\
+  \ effect, Polskie Radio (225kHz) on the carrier of 135.6kHz; some Luxemburg effect\
+  \ on 162 kHz (Polskie radio ?) and also on 129.1 kHz"
+content: "LW Band with New Year's speech of Queen Margrethe II at the last transmission\
+  \ of Kalundborg, 243kHz, rec. by Jorma Mantyla in Finland"
 radio-stations:
 - frequency: "129,1"
   snr: "48"
@@ -78,9 +84,8 @@ radio-stations:
   tx-site: "Tipaza; "
 location-longitude: "24° 30' 30″ E"
 location-latitude: "61° 28' 35″ N"
-location-qth: ""
 location-country: "FI"
 location-city: "Kangasala, Sahalahti "
-upload-user-fk: ""
+upload-user-fk: 0
 filters: "none"
 preamp-settings: "none"
