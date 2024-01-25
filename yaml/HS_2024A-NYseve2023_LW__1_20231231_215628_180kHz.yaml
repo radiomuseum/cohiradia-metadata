@@ -1,5 +1,5 @@
 ---
-id:
+id: 108
 uri: "HS_2024A/NYseve2023_LW__1_20231231_215628_180kHz.wav"
 recording-date: "2023-12-31T21:56:28+01:00"
 duration: 8411
@@ -11,9 +11,12 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 180.0
 bandwidth: 250.0
-antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2 windings, 1m diameter), ca 12m above ground"
+antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2 windings, 1m\
+  \ diameter), ca 12m above ground"
 recording-type: "RSPdx, SDRPlay"
-remark: "LW: 2 hours of the LW band including the turn of the year in 3 different time zones: Romania UTC+2, Poland UTC+1, England UTC; includes the chimes of Big Ben at its 100ths anniversary of live tranmissions"
+remark: "LW: 2 hours of the LW band including the turn of the year in 3 different\
+  \ time zones: Romania UTC+2, Poland UTC+1, England UTC; includes the chimes of Big\
+  \ Ben at its 100ths anniversary of live tranmissions"
 content: "New Years eve 31-12-2023, LW, rec. Graz, Midnight sequence"
 radio-stations:
 - frequency: "60"
@@ -96,7 +99,8 @@ radio-stations:
   country: "G"
   programme: "BBC Radio 4"
   tx-site: "Droitwich/Mast A-B; Burghead; Westerglen; Dartford Tunnel; "
-  remarks: "23:35 UTC, chimes of Big Ben at its 100ths anniversary of live tranmissions (https://www.euractiv.com/section/languages-culture/news/londons-big-ben-marks-100-years-of-new-year-bongs-on-bbc-radio/)"
+  remarks: "23:35 UTC, chimes of Big Ben at its 100ths anniversary of live tranmissions\
+    \ (https://www.euractiv.com/section/languages-culture/news/londons-big-ben-marks-100-years-of-new-year-bongs-on-bbc-radio/)"
 - frequency: "203.4"
   snr: "5"
   country: "not identified"
