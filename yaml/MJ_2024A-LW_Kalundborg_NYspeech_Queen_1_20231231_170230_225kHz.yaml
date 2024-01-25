@@ -14,7 +14,7 @@ bandwidth: 250.0
 antenna: "385 meter Beverage, direction 344˚ "
 recording-type: "Receiver: Icom IC-R8600, Software: HDSDR, original Bandwith 240 kHz,\
   \ resampled to 250kHz for STEMLAB125-14"
-remark: "Margarethe II's last New Year's address as Queen of Denmark at the end of\
+remark: "Margrethe II's last New Year's address as Queen of Denmark at the end of\
   \ the special programme before the final shutdown of th LW transmitter Kalundborg\
   \ @243 kHz, recording kindly provided by Jorma Mantyla; extremely strong Luxemburg\
   \ effect, Polskie Radio (225kHz) on the carrier of 135.6kHz; some Luxemburg effect\
@@ -78,7 +78,7 @@ radio-stations:
   country: "DNK"
   programme: "DR Langbølge"
   tx-site: "Kalundborg/Radiovej"
-  remarks: "Margarethe II's last New Year's address as Queen of Denmark at the end of the special programme before the final shutdown of th LW transmitter Kalundborg"
+  remarks: "Margrethe II's last New Year's address as Queen of Denmark at the end of the special programme before the final shutdown of th LW transmitter Kalundborg"
 - frequency: "252.0"
   snr: "38"
   country: "ALG"
