@@ -32,6 +32,7 @@ radio-stations:
   country: "H"
   programme: "HGA22, strong Luxemburg eff with Polskie Radio"
   tx-site: "Efr-telecontrol Lakihegy"
+  remarks: "extremely strong Luxemburg effect, Polskie Radio (225kHz)"
 - frequency: "139.6"
   snr: "59"
   country: "D"
