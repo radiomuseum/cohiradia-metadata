@@ -1,8 +1,8 @@
 ---
-id: 
+id: 112
 uri: "HS_2024C/SDRuno_20240205_133014Z_1125kHz.wav"
-recording-date: "2024-02-05T13:30:14+00:00"
-duration: 1908.0
+recording-date: "2024-02-05T13:30:14Z"
+duration: 1908
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -74,18 +74,17 @@ radio-stations:
 - frequency: "1341.0"
   snr: "23"
   country: "E ?"
-  programme: "Onda CeroEAJ65, Onda Cero Castilla-La Mancha; SEREAJ63, SER Castilla y León; Onda CeroEAJ60, Onda Cero Andalucía"
+  programme: "Onda CeroEAJ65, Onda Cero Castilla-La Mancha; SEREAJ63, SER Castilla\
+    \ y León; Onda CeroEAJ60, Onda Cero Andalucía"
   tx-site: "Ciudad Real/Ctra. Piedrabuena; León Vilecha; Almería"
 - frequency: "1530.0"
   snr: "24"
   country: "MDR"
   programme: "PEF Canal, Centova Radio (confirmed lifestream)"
   tx-site: "Poiso/Chão dos Balcões"
-location-longitude: ""
-location-latitude: ""
-location-qth: "IO28UU"
 location-country: "CNR"
 location-city: "Puerto de Sardina"
-upload-user-fk: "3642"
+location-qth: "IO28UU"
+upload-user-fk: 3642
 filters: "built in in SDR, DAB+"
 preamp-settings: "AGC mid, gain optimized for best SNR"
