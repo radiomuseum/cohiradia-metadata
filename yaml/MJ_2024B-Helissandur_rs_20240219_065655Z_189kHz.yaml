@@ -5,12 +5,12 @@ recording-date: "2024-02-19T06:56:55+02:00"
 duration: 2083
 band: "LW"
 frequency-unit: "kHz"
-frequency-low: 69.0
-frequency-high: 309.0
+frequency-low: 64.0
+frequency-high: 314.0
 frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 189.0
-bandwidth: 240.0
+bandwidth: 250.0
 antenna: "705 meter Beverage, direction 298˚ (on lw practically omnidirectional, Iceland\
   \ 189 is heard daily"
 recording-type: "Receiver: Icom IC-R8600, resampled to 250kHz for STEMLAB125-14"
