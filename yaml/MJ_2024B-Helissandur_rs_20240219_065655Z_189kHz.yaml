@@ -1,8 +1,8 @@
 ---
-id: 
+id: 114
 uri: "MJ_2024B/Helissandur_rs_20240219_065655Z_189kHz.wav"
 recording-date: "2024-02-19T06:56:55+02:00"
-duration: 2083.0
+duration: 2083
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 69.0
@@ -11,9 +11,11 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 189.0
 bandwidth: 240.0
-antenna: "705 meter Beverage, direction 298˚ (on lw practically omnidirectional, Iceland 189 is heard daily"
+antenna: "705 meter Beverage, direction 298˚ (on lw practically omnidirectional, Iceland\
+  \ 189 is heard daily"
 recording-type: "Receiver: Icom IC-R8600, resampled to 250kHz for STEMLAB125-14"
-remark: "Recording kindly provided by Jorma Mantyla, Helissandur in fair audio quality, BBC4 in very good quality"
+remark: "Recording kindly provided by Jorma Mantyla, Helissandur in fair audio quality,\
+  \ BBC4 in very good quality"
 content: "LW band including Helissandur (Iceland) in audible quality"
 radio-stations:
 - frequency: "129.1"
@@ -70,6 +72,6 @@ location-longitude: "24° 30' 30″ E"
 location-latitude: "61° 28' 35″ N"
 location-country: "FI"
 location-city: "Kangasala, Sahalahti, FI"
-upload-user-fk: ""
+upload-user-fk: 0
 filters: "none"
 preamp-settings: "none"
