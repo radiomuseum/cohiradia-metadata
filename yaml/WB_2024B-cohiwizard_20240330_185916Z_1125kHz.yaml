@@ -1,5 +1,5 @@
 ---
-id: 
+id: 120
 uri: "WB_2024B/cohiwizard_20240330_185916Z_1125kHz.wav"
 recording-date: "2024-03-30T18:59:16+01:00"
 duration: 7202
@@ -11,10 +11,13 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 1125.0
 bandwidth: 1250.0
-antenna: "2x19m Dipole, feeding point 13m high, wire ends are 7/9m, S-N, slooping to S"
+antenna: "2x19m Dipole, feeding point 13m high, wire ends are 7/9m, S-N, slooping\
+  \ to S"
 recording-type: "Stemlab125-14 "
-remark: "594, 657 and 720 KHz (until 19:27z) kHz are local home transmitters and no regular broadcasters"
-content: "MW band containing the program of Radio Caroline while celebrating its 60th anniversary (648kHz and 1368kHz)"
+remark: "594, 657 and 720 KHz (until 19:27z) kHz are local home transmitters and no\
+  \ regular broadcasters"
+content: "MW band containing the program of Radio Caroline while celebrating its 60th\
+  \ anniversary (648kHz and 1368kHz)"
 radio-stations:
 - frequency: "531.0"
   snr: "20"
@@ -39,7 +42,6 @@ radio-stations:
 - frequency: "576.0"
   snr: "30"
   country: "BUL"
-  programme: ""
   tx-site: "Vidin/Gramada"
 - frequency: "585.0"
   snr: "27"
@@ -377,7 +379,8 @@ radio-stations:
   snr: "32"
   country: "E"
   programme: "RNE Radio 5"
-  tx-site: "Ourense/Pereiro ; Bilbao/Santo Domingo (RNE5); Ciudad Real/Almagro ; León Villaquilambre"
+  tx-site: "Ourense/Pereiro ; Bilbao/Santo Domingo (RNE5); Ciudad Real/Almagro ; Leó\
+    n Villaquilambre"
 - frequency: "1314.0"
   snr: "35"
   country: "E"
@@ -423,9 +426,9 @@ radio-stations:
   country: "LTU"
   programme: "Radio Lenta"
   tx-site: "Kaunas/Sitkūnai"
-location-qth: "JO30QU"
 location-country: "Germany"
 location-city: "Neunkirchen-Seelscheid (DE)"
-upload-user-fk: "22152"
+location-qth: "JO30QU"
+upload-user-fk: 22152
 filters: "2MHz Lowpass Filter"
 preamp-settings: "20dB Preamp (2N5109, 35mA)"
