@@ -14,7 +14,7 @@ bandwidth: 250.0
 antenna: "active dipole 2x120cm, symmetric preamplifier with OPA655 FET Opamps, mobile, ca 12m above ground"
 recording-type: "RSP1A"
 remark: "RTL switches on the transmitter at 4:00 while Kalundborg joins somewhat after 04:33. So this file lets you experience the 'wakeup' of those two stations early in the morning"
-content: "New Year's Memories 22/23: Last transmission from RTL on LW, Wakeup in the morning; RX Graz"
+content: "New Year's Memories 22/23: Wakeup in the morning on the last day of transmission of RTL on LW, ; RX Graz"
 radio-stations:
 - frequency: "77.5"
   snr: "13"
