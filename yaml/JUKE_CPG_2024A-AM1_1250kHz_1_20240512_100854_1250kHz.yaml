@@ -13,8 +13,8 @@ center-frequency: 1250.0
 bandwidth: 1250.0
 recording-type: "synthetic"
 remark: "RF band has been synthetized digitally by modulating local audio sources\
-  \ onto artificially generated carriers"
-content: "Radio and music from the 1920ies and 1930ies, Volume 1"
+  \ onto artificially generated carriers; for more detailed contents see ´Additional Information/Attachments´"
+content: "Echoes of Bygone Radio Broadcasts: from 20's to 50's, Vol.1"
 radio-stations:
 - frequency: "783.0"
   programme: "Ansage Vox-Haus (Dauerschleife)"
