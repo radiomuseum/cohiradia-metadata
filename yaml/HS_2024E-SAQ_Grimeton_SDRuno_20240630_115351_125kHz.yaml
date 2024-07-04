@@ -1,8 +1,8 @@
 ---
-id: 
-uri: "HS_2024E/SAQ_Grimeton_SDRuno_20240630_115351_125kHz.wav" 
+id: 126
+uri: "HS_2024E/SAQ_Grimeton_SDRuno_20240630_115351_125kHz.wav"
 recording-date: "2024-06-30T11:53:51+02:00"
-duration: 1166.0
+duration: 1166
 band: "VLF - low LW"
 frequency-unit: "kHz"
 frequency-low: 0.0
@@ -11,7 +11,8 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 125.0
 bandwidth: 250.0
-antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter, with 2 windings, mobile setup 3m above ground"
+antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter, with 2 windings,\
+  \ mobile setup 3m above ground"
 recording-type: "RSPdx, SDRPlay"
 remark: "some QRM during some parts of the record; some thunderstorm crashes"
 content: "SAQ Grimeton, 100 years celebration, Alexanderson day 2024 "
@@ -120,6 +121,6 @@ location-longitude: "15° 28′ 25″ O"
 location-latitude: "47° 6′ 51″ O"
 location-country: "AT"
 location-city: "Graz"
-upload-user-fk: "3642"
+upload-user-fk: 3642
 filters: "onboard MW and DAB+"
 preamp-settings: "onboard only, AGC off, Gain for maximum SNR"
