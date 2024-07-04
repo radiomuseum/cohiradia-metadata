@@ -71,11 +71,11 @@ radio-stations:
   country: "F"
   programme: "FUGNo Name; FUEFSK 200/90; FUGNo Name; "
   tx-site: "Brest; French Navy Brest; La Régine; "
-- frequency: "66.67
+- frequency: "66.67"
   snr: "20"
   country: "RUS"
   programme: "RBU"
-  tx-site: "Taldom "
+  tx-site: "Taldom"
 - frequency: "77.5"
   snr: "40"
   country: "D"
