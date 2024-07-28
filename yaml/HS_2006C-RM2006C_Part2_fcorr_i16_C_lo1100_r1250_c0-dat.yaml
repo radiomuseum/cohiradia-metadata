@@ -15,6 +15,11 @@ antenna: "wire antenna 20m vs earth gnd"
 recording-type: "video recorder Philips VR6711"
 remark: "MW, 07-12-2006, part2, analogue VR;        SNR not extremely good and some\
   \ intermodulations due to analogue recording on VR, but historically interesting"
+radio-stations:
+- frequency: "549"
+  country: "D"
+  programme: "DLF"
+  tx-site: "Nordkirchen"
 content: "MW, 07-12-2006, part2, analogue VR"
 location-longitude: "15° 26′ 17″ O"
 location-latitude: "47° 4′ 16″ N"
