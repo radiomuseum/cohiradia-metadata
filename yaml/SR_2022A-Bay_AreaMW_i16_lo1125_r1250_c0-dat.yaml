@@ -19,6 +19,12 @@ remark: "MW California 19-04-2022, morning; station IDs are broadcast at 18:00UT
 content: "MW California 19-04-2022, morning"
 radio-station-announcement: "station IDs are broadcast at 18:00UTC, corresp to 60s from start\
   \ (exact hour"
+stations:
+- frequency: "900"
+  snr: "40"
+  country: "I"
+  programme: "RAI Radio Uno"
+  tx-site: "Milano Siziano"
 location-longitude: "121° 58′ W"
 location-latitude: "37° 14′ N"
 location-country: "US"
