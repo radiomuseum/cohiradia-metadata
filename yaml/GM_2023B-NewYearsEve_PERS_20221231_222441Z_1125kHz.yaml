@@ -16,6 +16,12 @@ recording-type: "?"
 remark: "Closure of Slovak transmitters on MW, RX Luzern"
 content: "New Year's Memories 22/23: Last transmission from SVK on 702 and 1098 kHz,\
   \ RX Luzern"
+radio-stations:
+- frequency: "900"
+  snr: "-"
+  country: "-
+  programme: "-"
+  tx-site: "-"
 location-longitude: "08° 18′ 49″ O"
 location-latitude: "47° 3′ 38″ N"
 location-country: "CH"
