@@ -17,8 +17,8 @@ remark: "Closure of Slovak transmitters on MW, RX Luzern"
 content: "New Year's Memories 22/23: Last transmission from SVK on 702 and 1098 kHz,\
   \ RX Luzern"
 radio-stations:
-- frequency: "900"
-  snr: "-"
+- frequency: "900.0"
+  snr: "0"
   country: "-
   programme: "-"
   tx-site: "-"
