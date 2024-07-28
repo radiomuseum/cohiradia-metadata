@@ -16,6 +16,12 @@ recording-type: "SDR, 14 bit, Red Pitaya Stemlab125-14, COHIRADIA-RFCorder"
 remark: "Shutdown of the LW transmitter Topolna in CZE at 24:00 (CZE), 23:00 UTC;\
   \ BBC at 198kHz poor due to interference at the receiver site"
 content: "LW band with shutdown of the LW transmitter Topolna in CZE at 23:00 UTC"
+radio-stations:
+- frequency: "198.0"
+  snr: "13"
+  country: "G"
+  programme: "BBC4"
+  tx-site: "Droitwich"
 location-longitude: "15° 26′ 17″ O"
 location-latitude: "47° 4′ 16″ N"
 location-country: "AT"
