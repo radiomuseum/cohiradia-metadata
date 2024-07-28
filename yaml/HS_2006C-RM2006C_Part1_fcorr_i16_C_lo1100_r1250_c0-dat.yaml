@@ -18,6 +18,11 @@ remark: "MW, 07-12-2006, part1, analogue VR;        SNR not extremely good and s
 content: "MW, 07-12-2006, part1, analogue VR"
 radio-station-announcement: "station identifications between 1:20 and 1:30; exact\
   \ hour 22:00 at position 1:30"
+radio-stations:
+- frequency: "549"
+  country: "D"
+  programme: "DLF"
+  tx-site: "Nordkirchen"
 location-longitude: "15° 26′ 17″ O"
 location-latitude: "47° 4′ 16″ N"
 location-country: "AT"
