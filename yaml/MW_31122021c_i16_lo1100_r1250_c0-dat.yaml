@@ -17,6 +17,12 @@ remark: "Shutdown of MW transmitters in CZE 23:00 UTC: 639kHz RKS Liblice 2 and 
   \ 954 kHz Dobrochov, Ceske Budejovice, Karlovy Vary; 1071kHz Ostrava; 1332kHz Moravske\
   \ Budejovice; Program: Cesky rozhlas Dvojka"
 content: "Shutdown of MW transmitters in CZE 23:00 UTC: Liblice 2 and Ostrava"
+radio-stations:
+- frequency: "639"
+  snr: "20"
+  country: "CZE"
+  programme: "RKS Liblice 2"
+  tx-site: "Liblice"
 location-longitude: "15° 26′ 17″ O"
 location-latitude: "47° 4′ 16″ N"
 location-country: "AT"
