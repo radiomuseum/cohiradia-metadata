@@ -1,8 +1,8 @@
 ---
-id: 
+id: 128
 uri: "WB_2024C Folder name in data directory of COHIRADIA server/SDRuno_20241006_075747Z_6040kHz.wav"
 recording-date: "2024-10-06T07:57:47+02:00"
-duration: 7516.0
+duration: 7516
 band: "SW 49m"
 frequency-unit: "kHz"
 frequency-low: 5790.0
@@ -14,7 +14,8 @@ bandwidth: 500.0
 antenna: "Dipol 10m high matched to 49m"
 recording-type: "RSP1a"
 remark: "Welle 370 Nauen 6095 kHz very strong "
-content: "SW 49m, special programm on 6055kHz: 100 Jahre Rundfunk in Österreich, Wolf Harranth (100 years of broadcasting in Austria)"
+content: "SW 49m, special programm on 6055kHz: 100 Jahre Rundfunk in Österreich, Wolf\
+  \ Harranth (100 years of broadcasting in Austria)"
 radio-stations:
 - frequency: "5843.0"
   snr: "38"
@@ -76,9 +77,9 @@ radio-stations:
   country: "D"
   programme: "Shortwave Goldcarries Shortwave Radio and other programmes; "
   tx-site: "Winsen an der Aller; "
-location-qth: "JO30qu"
 location-country: "D"
 location-city: "Neunkirchen-Seelscheid"
-upload-user-fk: "22152"
+location-qth: "JO30qu"
+upload-user-fk: 22152
 filters: "no filters"
 preamp-settings: "no preamplifier"
