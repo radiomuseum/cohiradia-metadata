@@ -1,5 +1,5 @@
 ---
-id:
+id: 130
 uri: "HS_2024F/100yearsTX_SAQ_01_12_2024_1_20241201_094237_135kHz.wav"
 recording-date: "2024-12-01T09:42:37+01:00"
 duration: 2134
@@ -11,13 +11,16 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 135.0
 bandwidth: 250.0
-antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2windings, 1m diameter circular) ca 3m above ground"
+antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2windings, 1m diameter\
+  \ circular) ca 3m above ground"
 recording-type: "RSPdx, SDRPlay"
 remark: "VLF,LW: Widebandscan 250 kHz containing Grimeton SAQ @ 17.2 kHz on 01-12-2024,\
-  \ centennial of the day when SAQ was put into commercial operation, with transmissions\
-  \across the Atlantic ocean; full story see https://alexander.n.se/saq-to-air-on-dec-1st-anniversary\
-  \ antenna redirected for optimum SBR from SAQ at approx. 10:00 UTC; AGC inactivated at approx 10:00 UTC"
-content: "Special transmission from SAQ Grimeton for celebrating the centennial of the first commercial transmission @17.2 kHz"
+  \ centennial of the day when SAQ was put into commercial operation, with transmissions\a\
+  cross the Atlantic ocean; full story see https://alexander.n.se/saq-to-air-on-dec-1st-anniversary\
+  \ antenna redirected for optimum SBR from SAQ at approx. 10:00 UTC; AGC inactivated\
+  \ at approx 10:00 UTC"
+content: "Special transmission from SAQ Grimeton for celebrating the centennial of\
+  \ the first commercial transmission @17.2 kHz"
 radio-stations:
 - frequency: "16,4"
   snr: "25"
@@ -162,7 +165,8 @@ radio-stations:
 - frequency: "147,3"
   snr: "20"
   country: "D"
-  programme: "DDH47, some interferences from broadcasting signal, maybe Luxemburg effect ?"
+  programme: "DDH47, some interferences from broadcasting signal, maybe Luxemburg\
+    \ effect ?"
   tx-site: "Pinneberg/DWD "
 - frequency: "153"
   snr: "55 after 10:00 UTC"
