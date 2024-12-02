@@ -198,10 +198,10 @@ radio-stations:
   country: "ALG"
   programme: "Chaîne 3"
   tx-site: "Tipaza"
-location-longitude: "15° 26′ 17″ O"
-location-latitude: "47° 4′ 16″ N"
+location-longitude: "15° 26′ 01″ E"
+location-latitude: "47° 09′ 00″ N"
 location-country: "AT"
-location-city: "Graz"
+location-city: "Kalkleiten (near Graz)"
 upload-user-fk: 3642
 filters: "on board of the SDR"
 preamp-settings: "on board LNA"
