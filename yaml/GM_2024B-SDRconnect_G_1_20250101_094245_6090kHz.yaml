@@ -1,5 +1,5 @@
 ---
-id: 
+id: 136
 uri: "GM_2024B/SDRconnect_G_1_20250101_094245_6090kHz.wav"
 recording-date: "2025-12-31T09:42:45+01:00"
 duration: 17683
@@ -13,8 +13,13 @@ center-frequency: 6090.0
 bandwidth: 250.0
 antenna: "Hari Delta Loop, 80m"
 recording-type: "SDRPlay RSP1a"
-remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contains a repetition of the ′Kurzwellenpanorama′ from 1974 during the celebration of the 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details on the development of broadcasting in Austria since 2024"
-content: "Very last transmission from Moosbrunn (AUT) BC site, recording site: Luzern (CH) "
+remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contains\
+  \ a repetition of the ′Kurzwellenpanorama′ from 1974 during the celebration of the\
+  \ 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf\
+  \ Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details\
+  \ on the development of broadcasting in Austria since 2024"
+content: "Very last transmission from Moosbrunn (AUT) BC site, recording site: Luzern\
+  \ (CH) "
 radio-stations:
 - frequency: "6005.0"
   snr: "30"
