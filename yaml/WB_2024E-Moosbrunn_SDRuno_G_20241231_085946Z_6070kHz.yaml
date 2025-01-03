@@ -18,7 +18,7 @@ remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contain
   \ 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf\
   \ Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details\
   \ on the development of broadcasting in Austria since 2024"
-content: "Very last transmission from Moosbrunn (AUT) BC site "
+content: "Very last transmission from Moosbrunn (AUT) BC site, recording site: Neunkirchen-Seelscheid "
 radio-stations:
 - frequency: "5955.0"
   snr: "40"
