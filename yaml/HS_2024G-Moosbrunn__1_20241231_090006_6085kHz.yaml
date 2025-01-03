@@ -1,0 +1,55 @@
+---
+id: 
+uri: "HS_2024G/Moosbrunn__1_20241231_090006_6085kHz.wav"
+recording-date: "2025-12-31T09:00:06+01:00"
+duration: 20939
+band: "SW 49m"
+frequency-unit: "kHz"
+frequency-low: 6035.0
+frequency-high: 6135.0
+frequency-correction: 0.0
+encoding: "ci16"
+center-frequency: 6085.0
+bandwidth: 100.0
+antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter, with 2 windings, 13m above ground"
+recording-type: "SDRPlay RSPdx"
+remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contains a repetition of the ′Kurzwellenpanorama′ from 1974 during the celebration of the 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details on the development of broadcasting in Austria since 2024; narrowband (100kHz) because of low number of received stations"
+content: "Very last transmission from Moosbrunn (AUT) BC site, recording site: Graz (AUT) "
+radio-stations:
+- frequency: "6055.0"
+  snr: "65"
+  country: "AUT"
+  programme: "Radio Austria (from 12:00: 6070: SM Radio Dessau)"
+  tx-site: "Moosbrunn"
+- frequency: "6070.0"
+  snr: "30"
+  country: "D"
+  programme: "Channel 292la:de,en,nl,it"
+  tx-site: "Rohrbach/Waal 93"
+- frequency: "6085.0"
+  snr: "45"
+  country: "D"
+  programme: "various"
+  tx-site: "Kall/Auf der Heide"
+- frequency: "6100.0"
+  snr: "40"
+  country: "CHN"
+  programme: "China Radio International from 13:58 on"
+  tx-site: "Urumqi Hutubi ?"
+- frequency: "6115.0"
+  snr: "20"
+  country: "D"
+  programme: "Radio SE-TA 2"
+  tx-site: "Gera; HFCC: Hartenstein"
+- frequency: "6130.0"
+  snr: "15"
+  country: "unidentified"
+  programme: "unidentified"
+  tx-site: "unidentified"
+location-longitude: "15° 26′ 17″ O"
+location-latitude: "47° 4′ 16″ N"
+location-country: "AT"
+location-city: "Graz"
+upload-user-fk: 3642
+filters: "on board of the SDR"
+preamp-settings: "on board LNA"
