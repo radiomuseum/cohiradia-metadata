@@ -1,5 +1,5 @@
 ---
-id: 
+id: 138
 uri: "HS_2024G/Moosbrunn__1_20241231_090006_6085kHz.wav"
 recording-date: "2025-12-31T09:00:06+01:00"
 duration: 20939
@@ -11,10 +11,17 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 6085.0
 bandwidth: 100.0
-antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter, with 2 windings, 13m above ground"
+antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter, with 2 windings,\
+  \ 13m above ground"
 recording-type: "SDRPlay RSPdx"
-remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contains a repetition of the ′Kurzwellenpanorama′ from 1974 during the celebration of the 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details on the development of broadcasting in Austria since 2024; narrowband (100kHz) because of low number of received stations"
-content: "Very last transmission from Moosbrunn (AUT) BC site, recording site: Graz (AUT) "
+remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contains\
+  \ a repetition of the ′Kurzwellenpanorama′ from 1974 during the celebration of the\
+  \ 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf\
+  \ Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details\
+  \ on the development of broadcasting in Austria since 2024; narrowband (100kHz)\
+  \ because of low number of received stations"
+content: "Very last transmission from Moosbrunn (AUT) BC site, recording site: Graz\
+  \ (AUT) "
 radio-stations:
 - frequency: "6055.0"
   snr: "65"
