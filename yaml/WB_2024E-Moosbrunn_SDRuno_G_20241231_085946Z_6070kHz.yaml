@@ -1,8 +1,8 @@
 ---
-id: 
+id: 134
 uri: "WB_2024E/Moosbrunn_SDRuno_G_20241231_085946Z_6070kHz.wav"
 recording-date: "2024-12-31T09:00:28+01:00"
-duration: 18058.0
+duration: 18058
 band: "SW 49m"
 frequency-unit: "kHz"
 frequency-low: 5945.0
@@ -13,7 +13,11 @@ center-frequency: 6070.0
 bandwidth: 250.0
 antenna: "10m high Dipole tuned to 6055 kHz"
 recording-type: "RSP1a"
-remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contains a repetition of the ′Kurzwellenpanorama′ from 1974 during the celebration of the 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details on the development of broadcasting in Austria since 2024"
+remark: "12:00 until 14:00 UTC change from 6055 to 6070 kHz; the program contains\
+  \ a repetition of the ′Kurzwellenpanorama′ from 1974 during the celebration of the\
+  \ 50th anniversary of Austrian broadcasting (1974), the last interview with Wolf\
+  \ Harranth (founder of the ′Dokumentationsarchiv Funk′) and many historic details\
+  \ on the development of broadcasting in Austria since 2024"
 content: "Very last transmission from Moosbrunn (AUT) BC site "
 radio-stations:
 - frequency: "5955.0"
@@ -78,9 +82,9 @@ radio-stations:
   tx-site: "Pinneberg"
 location-longitude: "007°20´E"
 location-latitude: "50°50'N"
-location-qth: "JO30qu"
 location-country: "D"
 location-city: "Neunkirchen-Seelscheid"
-upload-user-fk: "22152"
+location-qth: "JO30qu"
+upload-user-fk: 22152
 filters: "no filter used"
 preamp-settings: "no preamp used"
