@@ -1,5 +1,5 @@
 ---
-id: 
+id: 140
 uri: "HS_2024H/SAQ_Xmas24c_1_20241224_074405_135kHz.wav"
 recording-date: "2024-12-24T07:44:05+01:00"
 duration: 1736
@@ -15,7 +15,8 @@ antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2windings, 1m
   \ circular) ca 3m above ground"
 recording-type: "RSPdx, SDRPlay"
 remark: "VLF,LW: Widebandscan 250 kHz containing Grimeton SAQ @ 17.2 kHz on 24-12-2024,\
-  \ raditional X-mas transmission in the 100th year of operation; also several LW stations at the upper end of the band"
+  \ raditional X-mas transmission in the 100th year of operation; also several LW\
+  \ stations at the upper end of the band"
 content: "Xmas transmission from SAQ Grimeton @17.2 kHz, several LW stations"
 radio-stations:
 - frequency: "16,4"
