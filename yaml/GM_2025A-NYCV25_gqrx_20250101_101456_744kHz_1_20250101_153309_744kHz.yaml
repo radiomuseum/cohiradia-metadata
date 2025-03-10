@@ -1,5 +1,5 @@
 ---
-id:
+id:-
 uri: "GM_2025A/NYCV25_gqrx_20250101_101456_744kHz_1_20250101_153309_744kHz.wav"
 recording-date: "2025-01-01T15:33:09+01:00"
 duration: 9200
@@ -13,8 +13,7 @@ center-frequency: 1125.0
 bandwidth: 500.0
 antenna: "not specified"
 recording-type: "AirspyHF"
-remark: "Neujahrskonzert - Wiener Philharmoniker 2025 by Ricardo Muti on RNE\
-  \ Nacional"
+remark: "Neujahrskonzert - Wiener Philharmoniker 2025 by Ricardo Muti on RNE Nacional"
 content: "MW New Year's day, QTH: Perfugas(Sardinia). Special: New year's concert 2025 of the Vienna Philharmonic Orchestra on RNE"
 - frequency: "558.0"
   snr: "13"
