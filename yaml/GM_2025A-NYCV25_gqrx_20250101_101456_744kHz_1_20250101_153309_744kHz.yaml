@@ -1,5 +1,5 @@
 ---
-id:
+id: 142
 uri: "GM_2025A/NYCV25_gqrx_20250101_101456_744kHz_1_20250101_153309_744kHz.wav"
 recording-date: "2025-01-01T15:33:09+01:00"
 duration: 9200
@@ -14,13 +14,15 @@ bandwidth: 500.0
 antenna: "not specified"
 recording-type: "AirspyHF"
 remark: "Neujahrskonzert - Wiener Philharmoniker 2025 by Ricardo Muti on RNE Nacional"
-content: "MW New Year's day, QTH: Perfugas(Sardinia). Special: New year's concert 2025 of the Vienna Philharmonic Orchestra on RNE"
+content: "MW New Year's day, QTH: Perfugas(Sardinia). Special: New year's concert\
+  \ 2025 of the Vienna Philharmonic Orchestra on RNE"
 radio-stations:
 - frequency: "558.0"
   snr: "13"
   country: "E"
   programme: "RNE Radio 5 Todo Noticias País Vasco; Comunidad Valenciana; Galicia"
-  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte Pastoriza; "
+  tx-site: "San Sebastián/Biribilondo-Zubieta; València/El Palmar; La Coruña/Monte\
+    \ Pastoriza; "
 - frequency: "567.0"
   snr: "23"
   country: "E"
@@ -49,7 +51,8 @@ radio-stations:
 - frequency: "621.0"
   snr: "42"
   country: "E"
-  programme: "RNE; RNE Radio Nacional Castilla y León; RNE Radio Nacional Andalucía"
+  programme: "RNE; RNE Radio Nacional Castilla y León; RNE Radio Nacional Andalucí\
+    a"
   tx-site: "Palma/Marratxí; Ávila/Camino Tornadizos (RNE); Jaén/Las Lagunillas; "
 - frequency: "630.0"
   snr: "41"
@@ -60,7 +63,8 @@ radio-stations:
   snr: "35"
   country: "E"
   programme: "RNE; RNE Andalucía; RNE Castilla-La Mancha"
-  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren (RNE); Zaragoza/Cuarte Torrero (RNE); Almería/Roquetas de Mar (RNE); Albacete/El Palo (RNE); unknown; "
+  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren (RNE); Zaragoza/Cuarte Torrero\
+    \ (RNE); Almería/Roquetas de Mar (RNE); Albacete/El Palo (RNE); unknown; "
 - frequency: "648.0"
   snr: "22"
   country: "unidentified"
@@ -105,7 +109,9 @@ radio-stations:
   snr: "4"
   country: "E"
   programme: "RNE; RNE Andalucía; RNE Castilla-La Mancha"
-  tx-site: "Oviedo/El Naranco (RNE); Málaga/Santa Rosalía (RNE); Logroño/La Grajera (RNE); Valladolid/San Cristóbal (RNE); Alicante/Bacarot (RNE); Cuenca/Martinete (RNE); "
+  tx-site: "Oviedo/El Naranco (RNE); Málaga/Santa Rosalía (RNE); Logroño/La Grajera\
+    \ (RNE); Valladolid/San Cristóbal (RNE); Alicante/Bacarot (RNE); Cuenca/Martinete\
+    \ (RNE); "
 - frequency: "738.0"
   snr: "42"
   country: "E"
@@ -119,8 +125,11 @@ radio-stations:
 - frequency: "774.0"
   snr: "39"
   country: "E"
-  programme: "RNE; RNE País Vasco, new tetraplexer tx 558, 774, 963, 1476; RNE Castilla y León; RNE Andalucía; RNE Andalucía; RNE Castilla y León; "
-  tx-site: "València/El Palmar; Cáceres/Aldea del Cano (RNE); San Sebastián/Biribilondo-Zubieta; Ourense/Pereiro (RNE); Soria/Valonsadero (RNE); Granada/Cúllar Vega; La Línea (RNE); León/Villaquilambre (RNE); "
+  programme: "RNE; RNE País Vasco, new tetraplexer tx 558, 774, 963, 1476; RNE Castilla\
+    \ y León; RNE Andalucía; RNE Andalucía; RNE Castilla y León; "
+  tx-site: "València/El Palmar; Cáceres/Aldea del Cano (RNE); San Sebastián/Biribilondo-Zubieta;\
+    \ Ourense/Pereiro (RNE); Soria/Valonsadero (RNE); Granada/Cúllar Vega; La Línea\
+    \ (RNE); León/Villaquilambre (RNE); "
 - frequency: "783.0"
   snr: "41"
   country: "E"
@@ -129,8 +138,10 @@ radio-stations:
 - frequency: "801.0"
   snr: "4"
   country: "E"
-  programme: "RNE Castilla-La Mancha; RNENo Name; RNE Castilla y León; RNENo Name; RNENo Name; RNE Castilla y León; "
-  tx-site: "Ciudad Real/Almagro (RNE); Lugo/As Arierias (RNE); Burgos/San Bartolomé; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela; "
+  programme: "RNE Castilla-La Mancha; RNENo Name; RNE Castilla y León; RNENo Name;\
+    \ RNENo Name; RNE Castilla y León; "
+  tx-site: "Ciudad Real/Almagro (RNE); Lugo/As Arierias (RNE); Burgos/San Bartolomé\
+    ; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela; "
 - frequency: "810.0"
   snr: "12"
   country: "E"
@@ -140,7 +151,9 @@ radio-stations:
   snr: "40"
   country: "E"
   programme: "RNE; RNE Andalucía; RNE Castilla y León; RNE Castilla y León;"
-  tx-site: "Murcia/Torre de Cotillas (RNE); Santander/Rostrío; Pontevedra/Finca Marín; Tarragona/Reus (RNE); Huelva/Aljaraque (RNE); Pamplona/Berrioplano (RNE); Ponferrada/Fuentesnuevas (RNE); Salamanca/Feria de Ganado (RNE); Teruel/La Muela (RNE); "
+  tx-site: "Murcia/Torre de Cotillas (RNE); Santander/Rostrío; Pontevedra/Finca Marí\
+    n; Tarragona/Reus (RNE); Huelva/Aljaraque (RNE); Pamplona/Berrioplano (RNE); Ponferrada/Fuentesnuevas\
+    \ (RNE); Salamanca/Feria de Ganado (RNE); Teruel/La Muela (RNE); "
 - frequency: "864.0"
   snr: "2"
   country: "E"
