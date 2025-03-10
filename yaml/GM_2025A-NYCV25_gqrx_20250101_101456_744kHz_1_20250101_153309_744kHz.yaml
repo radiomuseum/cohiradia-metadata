@@ -15,6 +15,7 @@ antenna: "not specified"
 recording-type: "AirspyHF"
 remark: "Neujahrskonzert - Wiener Philharmoniker 2025 by Ricardo Muti on RNE Nacional"
 content: "MW New Year's day, QTH: Perfugas(Sardinia). Special: New year's concert 2025 of the Vienna Philharmonic Orchestra on RNE"
+radio-stations:
 - frequency: "558.0"
   snr: "13"
   country: "E"
