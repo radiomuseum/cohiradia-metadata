@@ -11,8 +11,7 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 1125.0
 bandwidth: 1250.0
-antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter, with 2 windings,\
-  \ 13m above ground oriented NNW for best reception from CZE"
+antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter with 2 windings, 13m above ground oriented NNW for best reception from CZE"
 recording-type: "SDRPlay RSPdx"
 remark: "MW containing Country Radio at 639kHz 12 h before final closure"
 content: "Goodbye Country Radio from Liblice at 639 kHz - 12 h before final closure"
