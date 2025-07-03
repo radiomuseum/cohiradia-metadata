@@ -1,5 +1,5 @@
 ---
-id:
+id: 148
 uri: "HS_2025B/SDRuno_20250702_090841Z_152kHz_1_20250702_084500_135kHz.wav"
 recording-date: "2025-07-02T08:45:00+02:00"
 duration: 1541
@@ -14,9 +14,11 @@ bandwidth: 250.0
 antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2windings, 1m diameter\
   \ circular) ca 3m above ground"
 recording-type: "RSPdx, SDRPlay"
-remark: "VLF,LW Widebandscan 250 kHz, containing a special transmission of SAQ celebrating the 100th anniversary of the inauguration of Grimeton Radio Station, antenna redirected for optimum SBR from SAQ at approx. 10:00 UTC; AGC slow"
-content: "100th anniversary of the inauguration of Grimeton Radio Station\ 
-  \ with the Alexanderson alternator @17.2 kHz"
+remark: "VLF,LW Widebandscan 250 kHz, containing a special transmission of SAQ celebrating\
+  \ the 100th anniversary of the inauguration of Grimeton Radio Station, antenna redirected\
+  \ for optimum SBR from SAQ at approx. 10:00 UTC; AGC slow"
+content: "100th anniversary of the inauguration of Grimeton Radio Station   with the\
+  \ Alexanderson alternator @17.2 kHz"
 radio-stations:
 - frequency: "17,2"
   snr: "25"
