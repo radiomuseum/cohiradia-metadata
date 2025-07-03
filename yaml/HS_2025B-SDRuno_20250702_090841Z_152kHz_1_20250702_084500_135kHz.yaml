@@ -14,10 +14,7 @@ bandwidth: 250.0
 antenna: "Wellbrook ALA1530 (flex version) with custom-built loop (2windings, 1m diameter\
   \ circular) ca 3m above ground"
 recording-type: "RSPdx, SDRPlay"
-remark: "VLF,LW Widebandscan 250 kHz, containing a special transmission of SAQ\
-  \celebrating the 100th anniversary of the inauguration of Grimeton Radio Station, \
-  \antenna redirected for optimum SBR from SAQ at approx. 10:00 UTC; AGC slow"
-recording-type: "RSPdx, SDRPlay"
+remark: "VLF,LW Widebandscan 250 kHz, containing a special transmission of SAQ celebrating the 100th anniversary of the inauguration of Grimeton Radio Station, antenna redirected for optimum SBR from SAQ at approx. 10:00 UTC; AGC slow"
 content: "100th anniversary of the inauguration of Grimeton Radio Station\ 
   \ with the Alexanderson alternator @17.2 kHz"
 radio-stations:
