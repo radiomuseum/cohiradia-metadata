@@ -1,5 +1,5 @@
 ---
-id:
+id: 150
 uri: "100year_SAQ_official_opening_SDRuno_20250702_123858Z_resamp50kHz.wav"
 recording-date: "2025-07-02T12:38:58+02:00"
 duration: 1744
@@ -9,14 +9,14 @@ frequency-low: 0.0
 frequency-high: 50.0
 frequency-correction: 0.0
 encoding: "ci16"
-center-frequency: 25.00
+center-frequency: 25.0
 bandwidth: 50.0
 antenna: "2x19m Dipol, Einspeisung 13m über Grund, abgespannt gegen Punkte 7m und\
   \ 9m über Grund, Spann-Richtung N-S, nach S geneigt"
 recording-type: "RSP1a"
 remark: "VLF Widebandscan 50 kHz containing Grimeton SAQ @ 17.2 kHz, Antenna tuned\
-  \ by additional Inductance, small bandwidth, some interferences on 17.9, 32.4 and 39.1kHz\
-  \ by digital equipment"
+  \ by additional Inductance, small bandwidth, some interferences on 17.9, 32.4 and\
+  \ 39.1kHz by digital equipment"
 content: "Special transmission from SAQ Grimeton for celebrating the centennial of\
   \ the official inauguration of the Grimeton radio station @17.2 kHz, rec. Neunkirchen"
 radio-stations:
