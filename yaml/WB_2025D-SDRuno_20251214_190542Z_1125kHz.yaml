@@ -631,7 +631,7 @@ radio-stations:
   tx-site: "Elche=Elx; Manresa/Bufálvent"
 - frequency: "1557.0"
   snr: "39"
-  country: "LTU
+  country: "LTU"
   programme: "Radio LentaIDing as Radio Pravda,"
   tx-site: "Kaunas/Sitkūnai"
 - frequency: "1566.0"
