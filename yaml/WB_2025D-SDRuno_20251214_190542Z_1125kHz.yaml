@@ -1,5 +1,5 @@
 ---
-id:
+id: 154
 uri: "WB_2025D/SDRuno_20251214_190542Z_1125kHz.wav"
 recording-date: "2025-12-14T19:05:42+01:00"
 duration: 7722
@@ -64,8 +64,7 @@ radio-stations:
 - frequency: "621.0"
   snr: "15"
   country: "E"
-  programme: "RNE; Radio Nacional\
-    \ Castilla y León; RNE Andalucía"
+  programme: "RNE; Radio Nacional Castilla y León; RNE Andalucía"
   tx-site: "Palma/Marratxí; Ávila/Camino Tornadizos   ; Jaén/Las Lagunillas"
 - frequency: "630.0"
   snr: "39"
@@ -257,7 +256,7 @@ radio-stations:
 - frequency: "981.0"
   snr: "25"
   country: "IRN ?"
-  programme: " 	IRIB Radio Hamadan ?"
+  programme: " \tIRIB Radio Hamadan ?"
   tx-site: "Hamadan"
 - frequency: "990.0"
   snr: "21"
@@ -298,8 +297,7 @@ radio-stations:
 - frequency: "1044.0"
   snr: "28"
   country: "E"
-  programme: "SEREAJ8, SER País VascoSER Castilla y\
-    \ León"
+  programme: "SEREAJ8, SER País VascoSER Castilla y León"
   tx-site: "San Sebastián/Monte Igueldo; Valladolid"
 - frequency: "1053.0"
   snr: "42"
@@ -315,8 +313,8 @@ radio-stations:
 - frequency: "1080.0"
   snr: "27"
   country: "E"
-  programme: "SER Andalucía; SER Aragón; Onda CeroEAJ49, Onda\
-    \ Cero Castilla-La Mancha; SER Galicia"
+  programme: "SER Andalucía; SER Aragón; Onda CeroEAJ49, Onda Cero Castilla-La Mancha;\
+    \ SER Galicia"
   tx-site: "Granada; Huesca; Toledo/Mirador del Greco; La Coruña/Elviña"
 - frequency: "1089.0"
   snr: "50"
@@ -335,9 +333,8 @@ radio-stations:
 - frequency: "1107.0"
   snr: "41"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias La Rioja; Extremadura;\
-    \ Cantabria;  León reg. prgr;\
-    \ Aragón"
+  programme: "RNE Radio 5 Todo Noticias La Rioja; Extremadura; Cantabria;  León reg.\
+    \ prgr; Aragón"
   tx-site: "Logroño/La Grajera   ; Cáceres/Aldea del Cano   ; Santander/Rostrío; Ponferrada/Fuentesnuevas\
     \   ; Teruel/La Muela   "
 - frequency: "1116.0"
@@ -348,9 +345,8 @@ radio-stations:
 - frequency: "1125.0"
   snr: "10"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Castilla y León; \
-    \ Extremadura; Comunidad Valenciana; \
-    \ Castilla-La Mancha; País Vasco"
+  programme: "RNE Radio 5 Todo Noticias Castilla y León;  Extremadura; Comunidad Valenciana;\
+    \  Castilla-La Mancha; País Vasco"
   tx-site: "Soria/Valonsadero   ; Badajoz/Granja Escuela   ; Castellón/Almazora; Toledo/San\
     \ Bernardo; Vitoria/Berrosteguieta"
 - frequency: "1134.0"
@@ -366,8 +362,7 @@ radio-stations:
 - frequency: "1152.0"
   snr: "10"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Andalucía; Castilla-La\
-    \ Mancha;  Murcia; Cataluñ\
+  programme: "RNE Radio 5 Todo Noticias Andalucía; Castilla-La Mancha;  Murcia; Cataluñ\
     a; Castilla y León"
   tx-site: "Málaga/Santa Rosalía   ; Albacete/El Palo   ; Cartagena/RNE; Lleida=Lé\
     rida/Alcoletge   ; Zamora/Ctra. Aldehuela"
@@ -425,8 +420,8 @@ radio-stations:
 - frequency: "1224.0"
   snr: "2"
   country: "E"
-  programme: "COPE Andalucía reg. prgr, COPE Cataluña reg. prgr,\
-    \ EAK15; COPE Baleares reg. prgr; COPEGalicia reg. prgr"
+  programme: "COPE Andalucía reg. prgr, COPE Cataluña reg. prgr, EAK15; COPE Baleares\
+    \ reg. prgr; COPEGalicia reg. prgr"
   tx-site: "Huelva/Colada de Cantarranas; San Sebastián/Monte Ulía; Almería; Lleida=Lé\
     rida; Palma/Na Burguesa; Lugo; unknown"
 - frequency: "1242.0"
@@ -462,8 +457,7 @@ radio-stations:
 - frequency: "1287.0"
   snr: "31"
   country: "E"
-  programme: "SER Galicia; SER Castilla y León; SER\
-    \ Cataluña"
+  programme: "SER Galicia; SER Castilla y León; SER Cataluña"
   tx-site: "Lugo/As Arierias; Burgos/Cortes; Lleida=Lérida/Granyena"
 - frequency: "1296.0"
   snr: "34"
@@ -478,7 +472,8 @@ radio-stations:
 - frequency: "1305.0"
   snr: "?"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Galicia;  País Vasco; Castilla-La Mancha; Castilla y León "
+  programme: "RNE Radio 5 Todo Noticias Galicia;  País Vasco; Castilla-La Mancha;\
+    \ Castilla y León "
   tx-site: "Ourense/Pereiro ; Bilbao/Santo Domingo ; Ciudad Real/Almagro ; León/Villaquilambre "
 - frequency: "1314.0"
   snr: "29"
@@ -509,8 +504,7 @@ radio-stations:
 - frequency: "1341.0"
   snr: "37"
   country: "E"
-  programme: "Onda Cero Castilla-La Mancha; SER Castilla\
-    \ y León; Andalucía"
+  programme: "Onda Cero Castilla-La Mancha; SER Castilla y León; Andalucía"
   tx-site: "Ciudad Real/Ctra. Piedrabuena; León Vilecha; Almería"
 - frequency: "1350.0"
   snr: "39"
@@ -545,7 +539,8 @@ radio-stations:
 - frequency: "1404.0"
   snr: "37"
   country: "ROU"
-  programme: "SRR Radio Cluj/Kolozsvári Rádió/Rad SRR Radio România Actualități, until 20:00"
+  programme: "SRR Radio Cluj/Kolozsvári Rádió/Rad SRR Radio România Actualități, until\
+    \ 20:00"
   tx-site: "Sighetu Marmației/Vadu Izei; Sibiu"
 - frequency: "1413.0"
   snr: "37"
@@ -565,7 +560,8 @@ radio-stations:
 - frequency: "1431.0"
   snr: "22"
   country: "G ?"
-  programme: "unknown station; listed ':' Chichester Hospital Radio (LPAM); Carillon Radio (LPAM); Radio RedhillRadio Redhill unidentified "
+  programme: "unknown station; listed ':' Chichester Hospital Radio (LPAM); Carillon\
+    \ Radio (LPAM); Radio RedhillRadio Redhill unidentified "
   tx-site: "Unidentified"
 - frequency: "1440.0"
   snr: "20"
@@ -600,7 +596,7 @@ radio-stations:
   programme: "Museumsradio AM, special transmission by DARC at 20:00"
   tx-site: "Bad Ischl"
 - frequency: "1485.0"
-  snr: 20"
+  snr: "20\""
   country: "E"
   programme: "SER Cantabria; SEREAJ72 SEREAJ12; SEREAJ21"
   tx-site: "Santander/Soto de la Marina; Zamora; Alcoy; Melilla"
@@ -652,8 +648,7 @@ radio-stations:
 - frequency: "1602.0"
   snr: "28"
   country: "E"
-  programme: "SER Murcia; SER Andalucía, feed by 102.3 FM; \
-    \ SER Com.Valenciana"
+  programme: "SER Murcia; SER Andalucía, feed by 102.3 FM;  SER Com.Valenciana"
   tx-site: "Cartagena; Linares; Onteniente=Ontinyent; Segovia/CL-601a"
 - frequency: "1645.0"
   snr: "34"
