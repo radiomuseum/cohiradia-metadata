@@ -13,7 +13,7 @@ center-frequency: 876.5
 bandwidth: 768.0
 antenna: "not specified"
 recording-type: "AirspyHF"
-content: "Goodbye RNE ! Shutdown of the Spanish MW transmitter network"
+content: "Goodbye RNE ! Shutdown of the Spanish MW transmitter network, recording site Perfungas"
 radio-stations:
 - frequency: "456.0"
   snr: "30"
