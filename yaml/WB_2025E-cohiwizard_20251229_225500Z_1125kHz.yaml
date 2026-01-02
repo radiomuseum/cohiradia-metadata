@@ -231,7 +231,7 @@ radio-stations:
   snr: "35"
   country: "E"
   programme: "RNE Radio 5 Todo Noticias Aragón; RNE Radio 5 Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias Comunidad Valenciana"
-  tx-site: "Zaragoza/Cuarte Torrero   ; Valladolid/San Cristóbal   ; Alicante/Bacarot; modulation switched off ca 03:00:41""
+  tx-site: "Zaragoza/Cuarte Torrero   ; Valladolid/San Cristóbal   ; Alicante/Bacarot; modulation switched off ca 03:00:41"
 - frequency: "954.0"
   snr: "39"
   country: "CZE"
