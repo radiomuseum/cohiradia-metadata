@@ -221,9 +221,7 @@ radio-stations:
   snr: "50"
   country: "G"
   programme: "BBC Radio 5 Live "
-  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox\
-    \ mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's\
-    \ Mount; Exeter/Pearce's Hill; Dartford Tunnel"
+  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's Mount; Exeter/Pearce's Hill; Dartford Tunnel"
 - frequency: "936.0"
   snr: "40"
   country: "IRN"
@@ -232,10 +230,8 @@ radio-stations:
 - frequency: "936.0"
   snr: "35"
   country: "E"
-  programme: "RNE Radio 5 Todo Noticias Aragón; RNE Radio 5 Todo Noticias Castilla\
-    \ y León; RNE Radio 5 Todo Noticias Comunidad Valenciana"
-  tx-site: "Zaragoza/Cuarte Torrero   ; Valladolid/San Cristóbal   ; Alicante/Bacarot; modulation switched\
-    \ off ca 03:00:41""
+  programme: "RNE Radio 5 Todo Noticias Aragón; RNE Radio 5 Todo Noticias Castilla y León; RNE Radio 5 Todo Noticias Comunidad Valenciana"
+  tx-site: "Zaragoza/Cuarte Torrero   ; Valladolid/San Cristóbal   ; Alicante/Bacarot; modulation switched off ca 03:00:41""
 - frequency: "954.0"
   snr: "39"
   country: "CZE"
