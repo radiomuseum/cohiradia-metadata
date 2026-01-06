@@ -1,8 +1,8 @@
 ---
-id: 
+id: 160
 uri: "WB_2025F/cohiwizard_20251231_223001Z_1125kHz.wav"
 recording-date: "2025-12-31T22:30:01+01:00"
-duration: 3570.0
+duration: 3570
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -55,7 +55,8 @@ radio-stations:
   snr: "25"
   country: "E"
   programme: "Carrier"
-  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren (RNE); Zaragoza/Cuarte Torrero (RNE); Almería/Roquetas de Mar (RNE); Albacete/El Palo (RNE)"
+  tx-site: "La Coruña/Mesón do Vento; Bilbao/Ganguren (RNE); Zaragoza/Cuarte Torrero\
+    \ (RNE); Almería/Roquetas de Mar (RNE); Albacete/El Palo (RNE)"
 - frequency: "648.0"
   snr: "38"
   country: "G"
@@ -70,7 +71,8 @@ radio-stations:
   snr: "60"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss; Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone; "
+  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss;\
+    \ Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone; "
 - frequency: "702.0"
   snr: "18"
   country: "ALG"
@@ -79,7 +81,8 @@ radio-stations:
 - frequency: "720.0"
   snr: "20"
   country: "POR"
-  programme: "Antena 1ant:monopole; Antena 1CSA212, ant: monopole; Antena 1CSA204; Antena 1CSA4, ant:monopole+CT, collapsed; Antena 1; "
+  programme: "Antena 1ant:monopole; Antena 1CSA212, ant: monopole; Antena 1CSA204;\
+    \ Antena 1CSA4, ant:monopole+CT, collapsed; Antena 1; "
   tx-site: "Castelo Branco; Elvas/Caia; Guarda; Miramar; Mirandela/Carvalhais; "
 - frequency: "729.0"
   snr: "18"
@@ -100,7 +103,9 @@ radio-stations:
   snr: "34"
   country: "E"
   programme: "Carrier"
-  tx-site: "València/El Palmar; Cáceres/Aldea del Cano (RNE); San Sebastián/Biribilondo-Zubieta; Ourense/Pereiro (RNE); Soria/Valonsadero (RNE); Granada/Cúllar Vega; La Línea (RNE); León/Villaquilambre (RNE); "
+  tx-site: "València/El Palmar; Cáceres/Aldea del Cano (RNE); San Sebastián/Biribilondo-Zubieta;\
+    \ Ourense/Pereiro (RNE); Soria/Valonsadero (RNE); Granada/Cúllar Vega; La Línea\
+    \ (RNE); León/Villaquilambre (RNE); "
 - frequency: "783.0"
   snr: "32"
   country: "E"
@@ -115,7 +120,8 @@ radio-stations:
   snr: "26"
   country: "E"
   programme: "Carrier"
-  tx-site: "Ciudad Real/Almagro (RNE); Lugo/As Arierias (RNE); Burgos/San Bartolomé; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela; "
+  tx-site: "Ciudad Real/Almagro (RNE); Lugo/As Arierias (RNE); Burgos/San Bartolomé\
+    ; Castellón/Almazora; Girona/Campllong; Zamora/Ctra. Aldehuela; "
 - frequency: "810.0"
   snr: "43"
   country: "G"
@@ -129,18 +135,23 @@ radio-stations:
 - frequency: "837.0"
   snr: "33"
   country: "E"
-  programme: "COPE Andalucía reg. prgr.; COPE Castilla y León reg. prgr. EAK3; COPE Galicia reg. prgr, EAK43"
+  programme: "COPE Andalucía reg. prgr.; COPE Castilla y León reg. prgr. EAK3; COPE\
+    \ Galicia reg. prgr, EAK43"
   tx-site: "Sevilla/EAK2; Burgos; La Coruña/Ferrol"
 - frequency: "846.0"
   snr: "34"
   country: "HOL"
-  programme: "Radio Nostalgiemoved from 675 kHz; Veluws Genotmoved from 1332, 1485 kHz; Groeistad Radioirregular, () Wassenaar 675 kHz; Album AMAlternating with 1251 kHz; Borrelronderadio HRI PlusBorrelronderadio Plus programma; "
+  programme: "Radio Nostalgiemoved from 675 kHz; Veluws Genotmoved from 1332, 1485\
+    \ kHz; Groeistad Radioirregular, () Wassenaar 675 kHz; Album AMAlternating with\
+    \ 1251 kHz; Borrelronderadio HRI PlusBorrelronderadio Plus programma; "
   tx-site: "Kollumerzwaag; Oldebroek; Terneuzen; Uden; Voorburg; "
 - frequency: "855.0"
   snr: "35"
   country: "E"
   programme: "Carrier"
-  tx-site: "Murcia/Torre de Cotillas (RNE); Santander/Rostrío; Pontevedra/Finca Marín; Tarragona/Reus (RNE); Huelva/Aljaraque (RNE); Pamplona/Berrioplano (RNE); Ponferrada/Fuentesnuevas (RNE); Salamanca/Feria de Ganado (RNE); Teruel/La Muela (RNE); "
+  tx-site: "Murcia/Torre de Cotillas (RNE); Santander/Rostrío; Pontevedra/Finca Marí\
+    n; Tarragona/Reus (RNE); Huelva/Aljaraque (RNE); Pamplona/Berrioplano (RNE); Ponferrada/Fuentesnuevas\
+    \ (RNE); Salamanca/Feria de Ganado (RNE); Teruel/La Muela (RNE); "
 - frequency: "864.0"
   snr: "40"
   country: "EGY"
@@ -170,7 +181,9 @@ radio-stations:
   snr: "50"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's Mount; Exeter/Pearce's Hill; Dartford Tunnel; "
+  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox\
+    \ mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's\
+    \ Mount; Exeter/Pearce's Hill; Dartford Tunnel; "
 - frequency: "927.0"
   snr: "36"
   country: "I"
@@ -229,13 +242,15 @@ radio-stations:
 - frequency: "1044.0"
   snr: "27"
   country: "E"
-  programme: "SEREAJ8, SER País Vasco, coord power 10 kW; SEREAJ47, SER Castilla y León; "
+  programme: "SEREAJ8, SER País Vasco, coord power 10 kW; SEREAJ47, SER Castilla y\
+    \ León; "
   tx-site: "San Sebastián/Monte Igueldo; Valladolid; "
 - frequency: "1053.0"
   snr: "44"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick; Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees; "
+  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick;\
+    \ Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees; "
 - frequency: "1071.0"
   snr: "29"
   country: "G"
@@ -244,13 +259,15 @@ radio-stations:
 - frequency: "1080.0"
   snr: "30"
   country: "E"
-  programme: "SEREAJ16, SER Andalucía; SEREAJ22, SER Aragón; Onda CeroEAJ49, Onda Cero Castilla-La Mancha; SEREAJ41, SER Galicia; "
+  programme: "SEREAJ16, SER Andalucía; SEREAJ22, SER Aragón; Onda CeroEAJ49, Onda\
+    \ Cero Castilla-La Mancha; SEREAJ41, SER Galicia; "
   tx-site: "Granada; Huesca; Toledo/Mirador del Greco; La Coruña/Elviña; "
 - frequency: "1089.0"
   snr: "48"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey; Dartford Tunnel; "
+  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey;\
+    \ Dartford Tunnel; "
 - frequency: "1098.0"
   snr: "22"
   country: "HOL"
@@ -260,7 +277,8 @@ radio-stations:
   snr: "35"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Lydd/Romney Marsh; Tarbat Ness (Inverness); Boston/Kirton Drove; Duxhurst; Fareham; Wallasey; "
+  tx-site: "Lydd/Romney Marsh; Tarbat Ness (Inverness); Boston/Kirton Drove; Duxhurst;\
+    \ Fareham; Wallasey; "
 - frequency: "1116.0"
   snr: "35"
   country: "G"
@@ -270,7 +288,8 @@ radio-stations:
   snr: "40"
   country: "E"
   programme: "Carrier "
-  tx-site: "Soria/Valonsadero (RNE); Badajoz/Granja Escuela (RNE); Castellón/Almazora; Toledo/San Bernardo; Vitoria/Berrosteguieta; "
+  tx-site: "Soria/Valonsadero (RNE); Badajoz/Granja Escuela (RNE); Castellón/Almazora;\
+    \ Toledo/San Bernardo; Vitoria/Berrosteguieta; "
 - frequency: "1134.0"
   snr: "31"
   country: "E"
@@ -285,12 +304,14 @@ radio-stations:
   snr: "15"
   country: "E"
   programme: "Carrier"
-  tx-site: "Málaga/Santa Rosalía (RNE); Albacete/El Palo (RNE); Cartagena/RNE; Lleida=Lérida/Alcoletge (RNE); Zamora/Ctra. Aldehuela; "
+  tx-site: "Málaga/Santa Rosalía (RNE); Albacete/El Palo (RNE); Cartagena/RNE; Lleida=Lé\
+    rida/Alcoletge (RNE); Zamora/Ctra. Aldehuela; "
 - frequency: "1152.0"
   snr: "24"
   country: "E"
   programme: "Carrier"
-  tx-site: "Málaga/Santa Rosalía (RNE); Albacete/El Palo (RNE); Cartagena/RNE; Lleida=Lérida/Alcoletge (RNE); Zamora/Ctra. Aldehuela; "
+  tx-site: "Málaga/Santa Rosalía (RNE); Albacete/El Palo (RNE); Cartagena/RNE; Lleida=Lé\
+    rida/Alcoletge (RNE); Zamora/Ctra. Aldehuela; "
 - frequency: "1161.0"
   snr: "35"
   country: "?IRN"
@@ -329,8 +350,11 @@ radio-stations:
 - frequency: "1224.0"
   snr: "20"
   country: "E"
-  programme: "COPE Andalucía reg. prgr, EAK14; EAK44; COPE Andalucía reg. prgr, EAK69; COPE Cataluña reg. prgr, EAK15; COPE Baleares reg. prgr, EAK18; COPEGalicia reg. prgr, EAK58"
-  tx-site: "Huelva/Colada de Cantarranas; San Sebastián/Monte Ulía; Almería; Lleida=Lérida; Palma/Na Burguesa; Lugo"
+  programme: "COPE Andalucía reg. prgr, EAK14; EAK44; COPE Andalucía reg. prgr, EAK69;\
+    \ COPE Cataluña reg. prgr, EAK15; COPE Baleares reg. prgr, EAK18; COPEGalicia\
+    \ reg. prgr, EAK58"
+  tx-site: "Huelva/Colada de Cantarranas; San Sebastián/Monte Ulía; Almería; Lleida=Lé\
+    rida; Palma/Na Burguesa; Lugo"
 - frequency: "1242.0"
   snr: "19"
   country: "OMA"
@@ -359,7 +383,8 @@ radio-stations:
 - frequency: "1287.0"
   snr: "26"
   country: "E"
-  programme: "SEREAJ68, SER Galicia; SEREAJ27, SER Castilla y León; SEREAJ42, SER Cataluña; "
+  programme: "SEREAJ68, SER Galicia; SEREAJ27, SER Castilla y León; SEREAJ42, SER\
+    \ Cataluña; "
   tx-site: "Lugo/As Arierias; Burgos/Cortes; Lleida=Lérida/Granyena; "
 - frequency: "1296.0"
   snr: "45"
@@ -375,7 +400,8 @@ radio-stations:
   snr: "29"
   country: "E"
   programme: "Carrier"
-  tx-site: "Tarragona/Reus (RNE); Cuenca/Martinete (RNE); Salamanca/Feria de Ganado (RNE); "
+  tx-site: "Tarragona/Reus (RNE); Cuenca/Martinete (RNE); Salamanca/Feria de Ganado\
+    \ (RNE); "
 - frequency: "1323.0"
   snr: "38"
   country: "I"
@@ -384,7 +410,8 @@ radio-stations:
 - frequency: "1341.0"
   snr: "38"
   country: "E"
-  programme: "Onda CeroEAJ65, Onda Cero Castilla-La Mancha; SEREAJ63, SER Castilla y León; Onda CeroEAJ60, Onda Cero Andalucía; "
+  programme: "Onda CeroEAJ65, Onda Cero Castilla-La Mancha; SEREAJ63, SER Castilla\
+    \ y León; Onda CeroEAJ60, Onda Cero Andalucía; "
   tx-site: "Ciudad Real/Ctra. Piedrabuena; León Vilecha; Almería; "
 - frequency: "1368.0"
   snr: "37"
@@ -394,7 +421,8 @@ radio-stations:
 - frequency: "1386.0"
   snr: "50"
   country: "LTU"
-  programme: "Radio Baltic Waves InternationalNautel NX-300 tx, max 300 kW, new tx site since 21Apr2017; "
+  programme: "Radio Baltic Waves InternationalNautel NX-300 tx, max 300 kW, new tx\
+    \ site since 21Apr2017; "
   tx-site: "Viešintos; "
 - frequency: "1395.0"
   snr: "28"
@@ -479,16 +507,19 @@ radio-stations:
 - frequency: "1584.0"
   snr: "15"
   country: "E"
-  programme: "SEREAJ57, SER Galicia; SEREAJ23; RadioléEAJ46 MW tx relaying Algeciras FM station; "
+  programme: "SEREAJ57, SER Galicia; SEREAJ23; RadioléEAJ46 MW tx relaying Algeciras\
+    \ FM station; "
   tx-site: "Ourense; Gandía/Rafalcaid; Ceuta"
 - frequency: "1602.0"
   snr: "32"
   country: "E"
-  programme: "SEREAJ54, assigned 1 kW, SER Murcia; SEREAJ37, assigned 1 kW, SER Andalucía, feed by 102.3 FM; SEREAJ30, assigned 1 kW, SER Com.Valenciana; SEREAJ64, assigned 1 kW; "
+  programme: "SEREAJ54, assigned 1 kW, SER Murcia; SEREAJ37, assigned 1 kW, SER Andalucí\
+    a, feed by 102.3 FM; SEREAJ30, assigned 1 kW, SER Com.Valenciana; SEREAJ64, assigned\
+    \ 1 kW; "
   tx-site: "Cartagena; Linares; Onteniente=Ontinyent; Segovia/CL-601a; "
-location-qth: "JO30qu"
 location-country: "Germany"
 location-city: "Neunkirchen-Seelscheid"
-upload-user-fk: "22152"
+location-qth: "JO30qu"
+upload-user-fk: 22152
 filters: "2MHz Low Pass Filter"
 preamp-settings: "+17dB external Preamplifier (2N5109 at 17mA)"
