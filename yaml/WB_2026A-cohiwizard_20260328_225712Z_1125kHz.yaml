@@ -1,8 +1,8 @@
 ---
-id: 
+id: 162
 uri: "WB_2026A/cohiwizard_20260328_225712Z_1125kHz.wav"
 recording-date: "2026-03-28T22:57:12+01:00"
-duration: 4763.0
+duration: 4763
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -49,8 +49,7 @@ radio-stations:
 - frequency: "595.0"
   snr: "29"
   country: "MRC"
-  programme: "Oujda 1kHz Offset
-"
+  programme: "Oujda 1kHz Offset "
   tx-site: "Al Idaa Al-Watania"
 - frequency: "630.0"
   snr: "44"
@@ -71,7 +70,8 @@ radio-stations:
   snr: "45"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss; Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
+  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss;\
+    \ Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone"
 - frequency: "720.0"
   snr: "1"
   country: "POR"
@@ -151,7 +151,9 @@ radio-stations:
   snr: "50"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's Mount; Exeter/Pearce's Hill; Dartford Tunnel"
+  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox\
+    \ mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's\
+    \ Mount; Exeter/Pearce's Hill; Dartford Tunnel"
 - frequency: "936.0"
   snr: "32"
   country: "IRN"
@@ -221,7 +223,8 @@ radio-stations:
   snr: "40"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick; Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees"
+  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick;\
+    \ Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees"
 - frequency: "1062.0"
   snr: "18"
   country: "IRN"
@@ -241,12 +244,14 @@ radio-stations:
   snr: "48"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey; Dartford Tunnel"
+  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey;\
+    \ Dartford Tunnel"
 - frequency: "1107.0"
   snr: "34"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Lydd/Romney Marsh; Tarbat Ness (Inverness); Boston/Kirton Drove; Duxhurst; Fareham; Wallasey"
+  tx-site: "Lydd/Romney Marsh; Tarbat Ness (Inverness); Boston/Kirton Drove; Duxhurst;\
+    \ Fareham; Wallasey"
 - frequency: "1116.0"
   snr: "39"
   country: "G"
@@ -300,7 +305,8 @@ radio-stations:
 - frequency: "1224.0"
   snr: "17"
   country: "E"
-  programme: "COPE Andalucía reg. prgr, new site since 2010; COPE Almeria; COPE Galicia reg. prgr"
+  programme: "COPE Andalucía reg. prgr, new site since 2010; COPE Almeria; COPE Galicia\
+    \ reg. prgr"
   tx-site: "Huelva/Colada de Cantarranas;  Almería;  Lugo;"
 - frequency: "1260.0"
   snr: "25"
@@ -340,7 +346,8 @@ radio-stations:
 - frequency: "1341.0"
   snr: "39"
   country: "E"
-  programme: "Onda Cero Castilla-La Mancha; SER Castilla y León; Onda Cero Andalucía"
+  programme: "Onda Cero Castilla-La Mancha; SER Castilla y León; Onda Cero Andalucí\
+    a"
   tx-site: "Ciudad Real/Ctra. Piedrabuena; León Vilecha; Almería"
 - frequency: "1368.0"
   snr: "38"
@@ -395,7 +402,8 @@ radio-stations:
 - frequency: "1485.0"
   snr: "25"
   country: "E"
-  programme: "SEREAJ32, SER Cantabria, assigned 1 kW; SEREAJ72, assigned 1 kW; SEREAJ12, assigned 1 kW; SEREAJ21, assigned 1 kW, maybe using less!"
+  programme: "SEREAJ32, SER Cantabria, assigned 1 kW; SEREAJ72, assigned 1 kW; SEREAJ12,\
+    \ assigned 1 kW; SEREAJ21, assigned 1 kW, maybe using less!"
   tx-site: "Santander/Soto de la Marina; Zamora; Alcoy; Melilla"
 - frequency: "1503.0"
   snr: "26"
