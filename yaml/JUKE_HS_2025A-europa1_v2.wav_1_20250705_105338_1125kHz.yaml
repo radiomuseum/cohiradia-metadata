@@ -17,9 +17,9 @@ remark: "RF band has been synthetized digitally by modulating local audio source
 content: "Europa 1: A first collection of European AM broadcasting stations between 1960 and 1983, transmitting on their originally scheduled frequencies. "
 radio-stations:
 - frequency: "529.0"
-  country:"CH" 
+  country:"CHE" 
   programme: "Laendler, unspezifiziert"
-  tx-site: "Beromünster"
+  tx-site: "Beromuenster"
 - frequency: "549.0"
   country:"D" 
   programme: "DLF Sendestart 16 Uhr 01-01-1962; DLF Schlagerderby 24-06-1966"
