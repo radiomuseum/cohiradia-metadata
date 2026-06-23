@@ -1,5 +1,5 @@
 ---
-id:
+id: 164
 uri: "JUKE_HS_2025A/eeuropa1_v2.wav_1_20250705_105338_1125kHz.wav"
 recording-date: "2025-07-05T10:53:38+02:00"
 duration: 3600
@@ -13,8 +13,10 @@ center-frequency: 1250.0
 bandwidth: 1250.0
 recording-type: "synthetic"
 remark: "RF band has been synthetized digitally by modulating local audio sources\
-  \ onto artificially generated carriers. This edition is work in progress as many European stations are still missing"
-content: "Europa 1: A first collection of European AM broadcasting stations between 1960 and 1983, transmitting on their originally scheduled frequencies. "
+  \ onto artificially generated carriers. This edition is work in progress as many\
+  \ European stations are still missing"
+content: "Europa 1: A first collection of European AM broadcasting stations between\
+  \ 1960 and 1983, transmitting on their originally scheduled frequencies. "
 radio-stations:
 - frequency: "529.0"
   programme: "Laendler, unspezifiziert"
@@ -35,10 +37,12 @@ radio-stations:
   programme: "WDR 2 - Das gab s auf einmal - Anno 74; 1974"
   tx-site: "D, Cremlingen"
 - frequency: "783.0"
-  programme: "Stimme der DDR: Unterwegs: Erkundungen in der DDR In und um Schoenbrunn herum; 15-03-1980"
+  programme: "Stimme der DDR: Unterwegs: Erkundungen in der DDR In und um Schoenbrunn\
+    \ herum; 15-03-1980"
   tx-site: "D, Burg bei Magdeburg"
 - frequency: "801.0"
-  programme: "Bayern 1 - 60 Jahre und kein bisschen leise - Höhen und Tiefen des Radios; 30-03-1984"
+  programme: "Bayern 1 - 60 Jahre und kein bisschen leise - Höhen und Tiefen des Radios;\
+    \ 30-03-1984"
   tx-site: "D, Ismaning; Dillberg"
 - frequency: "854.0"
   programme: "RIAS 1 - Musicbox"
@@ -59,7 +63,8 @@ radio-stations:
   programme: "BBC Radio 1, Tony Blackburn: Station opening; 30-09-1967, 7:00am"
   tx-site: "G, Washford, Brookmans park, Moorside Edge, Droitwich, Burghead, Lisnagarvey"
 - frequency: "1422.0"
-  programme: "SR 1 Europawelle Saar - 10 Jahre Glücksrad - Die schönsten Melodien 25-12-1983; Nachtclub - Brummerfunk; Nachtclub - Musik international 10-07-1980"
+  programme: "SR 1 Europawelle Saar - 10 Jahre Glücksrad - Die schönsten Melodien\
+    \ 25-12-1983; Nachtclub - Brummerfunk; Nachtclub - Musik international 10-07-1980"
   tx-site: "D, Heusweiler"
 - frequency: "1439.0"
   programme: "RTL: 12 Uhr mittags; 29-09-1976"
