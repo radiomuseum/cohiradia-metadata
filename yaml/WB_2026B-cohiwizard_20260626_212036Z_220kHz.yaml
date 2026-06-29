@@ -1,8 +1,8 @@
 ---
-id: 
+id: 166
 uri: "WB_2026B/cohiwizard_20260626_212036Z_220kHz.wav"
 recording-date: "2026-06-26T21:56:26+02:00"
-duration: 12900.0
+duration: 12900
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 95.0
@@ -56,9 +56,9 @@ radio-stations:
   country: "ALG"
   programme: "Chaîne 3"
   tx-site: "Tipaza"
-location-qth: "JO30qu"
 location-country: "Germany"
 location-city: "Neunkirchen-Seelscheid"
-upload-user-fk: "22152"
+location-qth: "JO30qu"
+upload-user-fk: 22152
 filters: "300 kHz low pass filter"
 preamp-settings: "external preamp 2x2N5109"
