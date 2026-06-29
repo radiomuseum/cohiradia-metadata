@@ -59,6 +59,6 @@ radio-stations:
 location-qth: "JO30qu"
 location-country: "Germany"
 location-city: "Neunkirchen-Seelscheid"
-upload-user-fk: "RM ID if any"
+upload-user-fk: "22152"
 filters: "300 kHz low pass filter"
 preamp-settings: "external preamp 2x2N5109"
