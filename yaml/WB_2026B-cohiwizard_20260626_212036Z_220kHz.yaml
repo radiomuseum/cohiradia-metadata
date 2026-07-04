@@ -14,7 +14,7 @@ bandwidth: 250.0
 antenna: "2x18m Dipole"
 recording-type: "StemLab"
 remark: "MRC on 171 kHz better than normal"
-content: "Goodbye BBC Radio 4 on LW, closedown of the LW transmitters on 198 kHz"
+content: "Goodbye BBC Radio 4 on LW, closedown of the LW transmitters on 198 kHz, recording location Neunkirchen-Seelscheid"
 radio-stations:
 - frequency: "129.0"
   snr: "2"
