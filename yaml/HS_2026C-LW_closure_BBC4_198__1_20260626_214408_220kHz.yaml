@@ -1,8 +1,8 @@
 ---
-id: 
+id: 170
 uri: "HS_2026C/LW_closure_BBC4_198__1_20260626_214408_220kHz.wav"
 recording-date: "2026-06-26T21:44:08+02:00"
-duration: 8357.0
+duration: 8357
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 95.0
@@ -14,8 +14,11 @@ bandwidth: 250.0
 antenna: "Wellbrook ALA1530 with custom built loop, 1 m diameter, 3m above ground,\
   \ mobile recording"
 recording-type: "RSPdx"
-remark: "for a recording with better SNR in 198kHz in recording by W Barteczek , site Neunkirchen-Seelscheid; a synchronous recording for the MW band exists, see list of recordings"
-content: "Goodbye BBC Radio 4 on LW, closedown of the LW transmitters on 198 kHz, recording location Immenstaadt"
+remark: "for a recording with better SNR in 198kHz in recording by W Barteczek , site\
+  \ Neunkirchen-Seelscheid; a synchronous recording for the MW band exists, see list\
+  \ of recordings"
+content: "Goodbye BBC Radio 4 on LW, closedown of the LW transmitters on 198 kHz,\
+  \ recording location Immenstaadt"
 radio-stations:
 - frequency: "129.0"
   snr: "4"
@@ -60,7 +63,8 @@ radio-stations:
 - frequency: "284.0"
   snr: "14"
   country: "BUL"
-  programme: "GNA1020Hz ID+5 gap *** SENDING TST (NOV 2020) *** NEW ID from 07/2017 - WAS 'GRN'; "
+  programme: "GNA1020Hz ID+5 gap *** SENDING TST (NOV 2020) *** NEW ID from 07/2017\
+    \ - WAS 'GRN'; "
   tx-site: "Gorna Oryahovitsa; "
 - frequency: "292.0"
   snr: "5"
