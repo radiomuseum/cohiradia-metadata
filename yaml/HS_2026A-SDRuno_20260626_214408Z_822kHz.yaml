@@ -1,8 +1,8 @@
 ---
-id: 
+id: 172
 uri: "HS_2026A/SDRuno_20260626_214408Z_822kHz.wav"
 recording-date: "2026-06-26T21:44:08+02:00"
-duration: 2147.0
+duration: 2147
 band: "LW"
 frequency-unit: "kHz"
 frequency-low: 95.0
@@ -14,8 +14,10 @@ bandwidth: 250.0
 antenna: "Wellbrook ALA1530 with custom built loop, 1 m diameter, 3m above ground,\
   \ mobile recording"
 recording-type: "RSPdx"
-remark: "This is a 2MHz wide band containing both LW and MW synchronously. for a pure LW recording with better SNR in 198kHz in recording by W Barteczek , site Neunkirchen-Seelscheid"
-content: "LW+MW wideband version including of ** Goodbye BBC Radio 4 on LW **, closedown of the LW transmitters on 198 kHz, recording location Immenstaadt"
+remark: "This is a 2MHz wide band containing both LW and MW synchronously. for a pure\
+  \ LW recording with better SNR in 198kHz in recording by W Barteczek , site Neunkirchen-Seelscheid"
+content: "LW+MW wideband version including of ** Goodbye BBC Radio 4 on LW **, closedown\
+  \ of the LW transmitters on 198 kHz, recording location Immenstaadt"
 radio-stations:
 - frequency: "129.0"
   snr: "4"
@@ -60,7 +62,8 @@ radio-stations:
 - frequency: "284.0"
   snr: "14"
   country: "BUL"
-  programme: "GNA1020Hz ID+5 gap *** SENDING TST (NOV 2020) *** NEW ID from 07/2017 - WAS 'GRN'; "
+  programme: "GNA1020Hz ID+5 gap *** SENDING TST (NOV 2020) *** NEW ID from 07/2017\
+    \ - WAS 'GRN'; "
   tx-site: "Gorna Oryahovitsa; "
 - frequency: "292.0"
   snr: "5"
