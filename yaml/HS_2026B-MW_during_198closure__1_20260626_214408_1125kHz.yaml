@@ -1,8 +1,8 @@
 ---
-id: 
+id: 168
 uri: "HS_2026B/MW_during_198closure__1_20260626_214408_1125kHz.wav"
 recording-date: "2026-06-26T22:55:41+02:00"
-duration: 8357.0
+duration: 8357
 band: "MW"
 frequency-unit: "kHz"
 frequency-low: 500.0
@@ -11,10 +11,12 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 1125.0
 bandwidth: 1250.0
-antenna: "Wellbrook ALA1530 with custom built loop, 1 m diameter, 3m above ground, mobile recording"
+antenna: "Wellbrook ALA1530 with custom built loop, 1 m diameter, 3m above ground,\
+  \ mobile recording"
 recording-type: "RSPdx"
 remark: "some crashes due to thunderstorms, very good reception of stations in GB"
-content: "MW band synchronous to **Goodbye BBC Radio 4 on LW**, recorded during the last hours of BBC Radio 4 on LW"
+content: "MW band synchronous to **Goodbye BBC Radio 4 on LW**, recorded during the\
+  \ last hours of BBC Radio 4 on LW"
 radio-stations:
 - frequency: "531.0"
   snr: "45"
@@ -80,7 +82,8 @@ radio-stations:
   snr: "41"
   country: "G"
   programme: "BBC Radio 5 Live "
-  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss; Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone; "
+  tx-site: "Droitwich/Mast A; Start Point; Stagshaw; Burghead; Postwick; Aberdeen/Redmoss;\
+    \ Barrow-in-Furness; Brighton/Southwick; Bexhill-on-Sea; Enniskillen; Folkestone; "
 - frequency: "702.0"
   snr: "27"
   country: "EGY"
@@ -109,7 +112,8 @@ radio-stations:
 - frequency: "747.0"
   snr: "22"
   country: "HOL ?"
-  programme: "MCB RadioNo Name; Cupra Radioon air Jul2016, moved from 1395 kHz; Radio Zwollemoved from 1485 kHz; "
+  programme: "MCB RadioNo Name; Cupra Radioon air Jul2016, moved from 1395 kHz; Radio\
+    \ Zwollemoved from 1485 kHz; "
   tx-site: "Alphen aan den Rijn; Emmer-Compascuum; Zwolle; ?"
 - frequency: "756.0"
   snr: "16"
@@ -180,7 +184,9 @@ radio-stations:
   snr: "48"
   country: "G"
   programme: "BBC Radio 5 Live"
-  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's Mount; Exeter/Pearce's Hill; Dartford Tunnel; "
+  tx-site: "Moorside Edge; Brookmans Park; Clevedon; Westerglen; Lisnagarvey/Blaw-Knox\
+    \ mast; Fareham; Bournemouth/Fern Barrow; Redruth/Lanner Hill; Whitehaven; Londonderry/Sherriff's\
+    \ Mount; Exeter/Pearce's Hill; Dartford Tunnel; "
 - frequency: "927.0"
   snr: "32"
   country: "unidentified"
@@ -240,7 +246,8 @@ radio-stations:
   snr: "44"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick; Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees; "
+  tx-site: "Droitwich/Mast C-D; Postwick; Dumfries; Tonbridge; Brighton/Southwick;\
+    \ Bournemouth/Fern Barrow; Dundee/Greenside Scalp; Hull/Paull; Stockton-on-Tees; "
 - frequency: "1071.0"
   snr: "24"
   country: "G"
@@ -249,18 +256,21 @@ radio-stations:
 - frequency: "1080.0"
   snr: "23"
   country: "E"
-  programme: "SEREAJ16, SER Andalucía; SEREAJ22, SER Aragón; Onda CeroEAJ49, Onda Cero Castilla-La Mancha; SEREAJ41, SER Galicia; "
+  programme: "SEREAJ16, SER Andalucía; SEREAJ22, SER Aragón; Onda CeroEAJ49, Onda\
+    \ Cero Castilla-La Mancha; SEREAJ41, SER Galicia; "
   tx-site: "Granada; Huesca; Toledo/Mirador del Greco; La Coruña/Elviña; "
 - frequency: "1089.0"
   snr: "51"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey; Dartford Tunnel; "
+  tx-site: "Brookmans Park/North T aeria; Westerglen; Washford; Moorside Edge; Lisnagarvey;\
+    \ Dartford Tunnel; "
 - frequency: "1107.0"
   snr: "38"
   country: "G"
   programme: "TalkSPORT"
-  tx-site: "Lydd/Romney Marsh; Tarbat Ness (Inverness); Boston/Kirton Drove; Duxhurst; Fareham; Wallasey; "
+  tx-site: "Lydd/Romney Marsh; Tarbat Ness (Inverness); Boston/Kirton Drove; Duxhurst;\
+    \ Fareham; Wallasey; "
 - frequency: "1116.0"
   snr: "35"
   country: "G"
@@ -274,7 +284,8 @@ radio-stations:
 - frequency: "1143.0"
   snr: "33"
   country: "E"
-  programme: "COPE Andalucía reg. prgr, ; COPEGalicia reg. prgr,; ENLESS LOOP WITH ANNOUNCEMENT OF UNAVAILABILITY ON AM"
+  programme: "COPE Andalucía reg. prgr, ; COPEGalicia reg. prgr,; ENLESS LOOP WITH\
+    \ ANNOUNCEMENT OF UNAVAILABILITY ON AM"
   tx-site: "Jaén; Ourense; "
 - frequency: "1161.0"
   snr: "34"
@@ -304,7 +315,7 @@ radio-stations:
 - frequency: "1215.0"
   snr: "25"
   country: "ARS ?"
-  programme: "SBA Radio Jeddah ?  	SBA Radio Riyadh ?"
+  programme: "SBA Radio Jeddah ?  \tSBA Radio Riyadh ?"
   tx-site: "Hafar al-Batin, Madinah ?"
 - frequency: "1224.0"
   snr: "37"
@@ -344,7 +355,8 @@ radio-stations:
 - frequency: "1341.0"
   snr: "34"
   country: "E"
-  programme: "Onda Cero Castilla-La Mancha; SER Castilla y León; Onda Cero Andalucía; "
+  programme: "Onda Cero Castilla-La Mancha; SER Castilla y León; Onda Cero Andalucí\
+    a; "
   tx-site: "Ciudad Real/Ctra. Piedrabuena; León Vilecha; Almería; "
 - frequency: "1368.0"
   snr: "1"
@@ -390,7 +402,8 @@ radio-stations:
   snr: "24"
   country: "G"
   programme: " BBC Asian Network"
-  tx-site: "Aberdeen/Redmoss; Peterborough/Gunthorpe; Leicester (Highfields); North Bristol College Campus; "
+  tx-site: "Aberdeen/Redmoss; Peterborough/Gunthorpe; Leicester (Highfields); North\
+    \ Bristol College Campus; "
 - frequency: "1458.0"
   snr: "45"
   country: "G"
@@ -405,17 +418,17 @@ radio-stations:
   snr: "23"
   country: "HOL"
   programme: "Radio Paradijs"
-  tx-site: "Utrecht/Galgenwaard "  
+  tx-site: "Utrecht/Galgenwaard "
 - frequency: "1476.0"
   snr: "20"
   country: "AUT"
   programme: "Museumsradio AM"
-  tx-site: "Bad Ischl "  
+  tx-site: "Bad Ischl "
 - frequency: "1485.0"
   snr: "2"
   country: "E"
   programme: "SER Radio Alcoy"
-  tx-site: " 	Alcoy "
+  tx-site: " \tAlcoy "
 - frequency: "1503.0"
   snr: "30"
   country: "I"
@@ -450,7 +463,7 @@ radio-stations:
   snr: "34"
   country: "E"
   programme: "SER Radio Córdoba"
-  tx-site: " 	Córdoba"
+  tx-site: " \tCórdoba"
 - frequency: "1584.0"
   snr: "36"
   country: "E"
@@ -459,7 +472,8 @@ radio-stations:
 - frequency: "1602.0"
   snr: "39"
   country: "E"
-  programme: "SER Radio Segovia,  	SER Radio Linares ,  	SER Radio Cartagena, SER Radio Ontinyent "
+  programme: "SER Radio Segovia,  \tSER Radio Linares ,  \tSER Radio Cartagena, SER\
+    \ Radio Ontinyent "
   tx-site: "Cartagena; Linares; Onteniente=Ontinyent; Segovia/CL-601a; "
 - frequency: "1660.0"
   snr: "22"
@@ -471,9 +485,9 @@ radio-stations:
   country: "GRC"
   programme: "Radio 1700"
   tx-site: "unknown"
-location-qth: "JN77RR"
 location-country: "Germany"
 location-city: "Immenstaadt"
-upload-user-fk: "3642"
+location-qth: "JN77RR"
+upload-user-fk: 3642
 filters: "only internal ones, suppr. DAB+"
 preamp-settings: "no external LNA, internal AGC on"
