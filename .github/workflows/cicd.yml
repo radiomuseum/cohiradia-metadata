@@ -36,7 +36,7 @@ jobs:
       run: rm /tmp/cohiradia-cli.jar
     - name: Pull Data
       run: |
-        curl -s -XPOST https://cohiradia.radiomuseum.org/api/metadata/pull
-        curl -s -XPOST https://cohiradia.radiomuseum.org/api/metadata/reload
+        curl -s -H "X-Admin-Token: ${{secrets.X_ADMIN_TOKEN}}" -XPOST https://cohiradia.radiomuseum.org/api/admin/pull
+        curl -s -H "X-Admin-Token: ${{secrets.X_ADMIN_TOKEN}}" -XPOST https://cohiradia.radiomuseum.org/api/admin/reload
       if: github.ref == 'refs/heads/main' && github.event_name == 'push'
       
