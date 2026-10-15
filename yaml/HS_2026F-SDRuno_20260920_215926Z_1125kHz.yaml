@@ -1,5 +1,5 @@
 ---
-id: 
+id: 176
 uri: "HS_2026F/SDRuno_20260920_215926Z_1125kHz.wav"
 recording-date: "2026-09-20T21:59:26+02:00"
 duration: 4290
@@ -11,9 +11,14 @@ frequency-correction: 0.0
 encoding: "ci16"
 center-frequency: 1125.0
 bandwidth: 1250.0
-antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter with 2 windings, 13m above ground oriented E-W to achieve balanced sensitivity both to Great Britain and France (a compromise at the receiving location)"
+antenna: "Wellbrook ALA1530 flex, custom-built loop 1m diameter with 2 windings, 13m\
+  \ above ground oriented E-W to achieve balanced sensitivity both to Great Britain\
+  \ and France (a compromise at the receiving location)"
 recording-type: "SDRPlay RSPdx"
-remark: "This recording is a tribute to Tony Currie and his passionate project of broadcasting Radio Six International across almost the whole of Europe on 1467 kHz from the 1MW medium wave transmitter in Roumoules. Thanks Tony for this wonderful attempt to revive AM radio !"
+remark: "This recording is a tribute to Tony Currie and his passionate project of\
+  \ broadcasting Radio Six International across almost the whole of Europe on 1467\
+  \ kHz from the 1MW medium wave transmitter in Roumoules. Thanks Tony for this wonderful\
+  \ attempt to revive AM radio !"
 content: "Homage to Tony Currie’s Radio Six Project with 1000 kW on 1467 kHz"
 radio-stations:
 - frequency: "531.0"
@@ -49,7 +54,7 @@ radio-stations:
 - frequency: "567.0"
   snr: "9"
   country: "IRN"
-  programme: " 	IRIB World Service "
+  programme: " \tIRIB World Service "
   tx-site: "Bandar-e Mahshahr ? plus "
 - frequency: "576.0"
   snr: "44"
@@ -130,7 +135,7 @@ radio-stations:
 - frequency: "711.0"
   snr: "29"
   country: "IRN"
-  programme: " 	IRIB Radio Khuzestan"
+  programme: " \tIRIB Radio Khuzestan"
   tx-site: "Ahwaz"
 - frequency: "720.0"
   snr: "26"
@@ -165,12 +170,12 @@ radio-stations:
 - frequency: "774.0"
   snr: "31"
   country: "EGY"
-  programme: " 	NMA Al-Sharq al-Awsat ? , strong interference"
+  programme: " \tNMA Al-Sharq al-Awsat ? , strong interference"
   tx-site: "Abis"
 - frequency: "774.0"
   snr: "31"
   country: "IRN"
-  programme: " 	IRIB Radio Aftab "
+  programme: " \tIRIB Radio Aftab "
   tx-site: "Arak"
 - frequency: "783.0"
   snr: "31"
@@ -420,12 +425,12 @@ radio-stations:
 - frequency: "1296.0"
   snr: "17"
   country: "G ?"
-  programme: " 	Radio XL 1296 AM ?"
-  tx-site: " 	Birmingham/Langley Mill-B ?"
+  programme: " \tRadio XL 1296 AM ?"
+  tx-site: " \tBirmingham/Langley Mill-B ?"
 - frequency: "1305.0"
   snr: "29"
   country: "G ?"
-  programme: " 	Premier Christian Radio ?"
+  programme: " \tPremier Christian Radio ?"
   tx-site: "London"
 - frequency: "1332.0"
   snr: "22"
