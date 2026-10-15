@@ -41,7 +41,7 @@ radio-stations:
   country: "ALG?"
   programme: "Jil FM ?, strong interferences"
   tx-site: "Sidi Hamadouche ?"
-  - frequency: "558.0"
+- frequency: "558.0"
   snr: "40"
   country: "SVN"
   programme: "Muravidéki Magyar Rádió , interferences"
